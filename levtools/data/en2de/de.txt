@@ -1,0 +1,1977 @@
+German	German
+German	Gen 32:1
+German	Gen 32:2
+German	Gen 32:3
+German	Gen 32:4
+German	Gen 32:5
+German	Gen 32:6
+German	Gen 32:7
+German	Gen 32:8
+German	Gen 32:9
+German	Gen 32:10
+German	Gen 32:11
+German	Gen 32:12
+German	Gen 32:13
+German	Gen 32:14
+German	Gen 32:15
+German	Gen 32:16
+German	Gen 32:17
+German	Gen 32:18
+German	Gen 32:19
+German	Gen 32:20
+German	Gen 32:21
+German	Gen 32:22
+German	Gen 32:23
+German	Gen 32:24
+German	Gen 32:25
+German	Gen 32:26
+German	Gen 32:27
+German	Gen 32:28
+German	Gen 32:29
+German	Gen 32:30
+German	Gen 32:31
+German	Gen 32:32
+German	Gen 32:33
+German	Exo 7:26
+German	Exo 7:27
+German	Exo 7:28
+German	Exo 7:29
+German	Exo 8:1
+German	Exo 8:2
+German	Exo 8:3
+German	Exo 8:4
+German	Exo 8:5
+German	Exo 8:6
+German	Exo 8:7
+German	Exo 8:8
+German	Exo 8:9
+German	Exo 8:10
+German	Exo 8:11
+German	Exo 8:12
+German	Exo 8:13
+German	Exo 8:14
+German	Exo 8:15
+German	Exo 8:16
+German	Exo 8:17
+German	Exo 8:18
+German	Exo 8:19
+German	Exo 8:20
+German	Exo 8:21
+German	Exo 8:22
+German	Exo 8:23
+German	Exo 8:24
+German	Exo 8:25
+German	Exo 8:26
+German	Exo 8:27
+German	Exo 8:28
+German	Exo 21:37
+German	Exo 22:1
+German	Exo 22:2
+German	Exo 22:3
+German	Exo 22:4
+German	Exo 22:5
+German	Exo 22:6
+German	Exo 22:7
+German	Exo 22:8
+German	Exo 22:9
+German	Exo 22:10
+German	Exo 22:11
+German	Exo 22:12
+German	Exo 22:13
+German	Exo 22:14
+German	Exo 22:15
+German	Exo 22:16
+German	Exo 22:17
+German	Exo 22:18
+German	Exo 22:19
+German	Exo 22:20
+German	Exo 22:21
+German	Exo 22:22
+German	Exo 22:23
+German	Exo 22:24
+German	Exo 22:25
+German	Exo 22:26
+German	Exo 22:27
+German	Exo 22:28
+German	Exo 22:29
+German	Exo 22:30
+German	Lev 5:20
+German	Lev 5:21
+German	Lev 5:22
+German	Lev 5:23
+German	Lev 5:24
+German	Lev 5:25
+German	Lev 5:26
+German	Lev 6:1
+German	Lev 6:2
+German	Lev 6:3
+German	Lev 6:4
+German	Lev 6:5
+German	Lev 6:6
+German	Lev 6:7
+German	Lev 6:8
+German	Lev 6:9
+German	Lev 6:10
+German	Lev 6:11
+German	Lev 6:12
+German	Lev 6:13
+German	Lev 6:14
+German	Lev 6:15
+German	Lev 6:16
+German	Lev 6:17
+German	Lev 6:18
+German	Lev 6:19
+German	Lev 6:20
+German	Lev 6:21
+German	Lev 6:22
+German	Lev 6:23
+German	Num 17:1
+German	Num 17:2
+German	Num 17:3
+German	Num 17:4
+German	Num 17:5
+German	Num 17:6
+German	Num 17:7
+German	Num 17:8
+German	Num 17:9
+German	Num 17:10
+German	Num 17:11
+German	Num 17:12
+German	Num 17:13
+German	Num 17:14
+German	Num 17:15
+German	Num 17:16
+German	Num 17:17
+German	Num 17:18
+German	Num 17:19
+German	Num 17:20
+German	Num 17:21
+German	Num 17:22
+German	Num 17:23
+German	Num 17:24
+German	Num 17:25
+German	Num 17:26
+German	Num 17:27
+German	Num 17:28
+German	Num 25:19
+German	Num 30:1
+German	Num 30:2
+German	Num 30:3
+German	Num 30:4
+German	Num 30:5
+German	Num 30:6
+German	Num 30:7
+German	Num 30:8
+German	Num 30:9
+German	Num 30:10
+German	Num 30:11
+German	Num 30:12
+German	Num 30:13
+German	Num 30:14
+German	Num 30:15
+German	Num 30:16
+German	Num 30:17
+German	Deu 13:1
+German	Deu 13:2
+German	Deu 13:3
+German	Deu 13:4
+German	Deu 13:5
+German	Deu 13:6
+German	Deu 13:7
+German	Deu 13:8
+German	Deu 13:9
+German	Deu 13:10
+German	Deu 13:11
+German	Deu 13:12
+German	Deu 13:13
+German	Deu 13:14
+German	Deu 13:15
+German	Deu 13:16
+German	Deu 13:17
+German	Deu 13:18
+German	Deu 13:19
+German	Deu 23:1
+German	Deu 23:2
+German	Deu 23:3
+German	Deu 23:4
+German	Deu 23:5
+German	Deu 23:6
+German	Deu 23:7
+German	Deu 23:8
+German	Deu 23:9
+German	Deu 23:10
+German	Deu 23:11
+German	Deu 23:12
+German	Deu 23:13
+German	Deu 23:14
+German	Deu 23:15
+German	Deu 23:16
+German	Deu 23:17
+German	Deu 23:18
+German	Deu 23:19
+German	Deu 23:20
+German	Deu 23:21
+German	Deu 23:22
+German	Deu 23:23
+German	Deu 23:24
+German	Deu 23:25
+German	Deu 23:26
+German	Deu 28:69
+German	Deu 29:1
+German	Deu 29:2
+German	Deu 29:3
+German	Deu 29:4
+German	Deu 29:5
+German	Deu 29:6
+German	Deu 29:7
+German	Deu 29:8
+German	Deu 29:9
+German	Deu 29:10
+German	Deu 29:11
+German	Deu 29:12
+German	Deu 29:13
+German	Deu 29:14
+German	Deu 29:15
+German	Deu 29:16
+German	Deu 29:17
+German	Deu 29:18
+German	Deu 29:19
+German	Deu 29:20
+German	Deu 29:21
+German	Deu 29:22
+German	Deu 29:23
+German	Deu 29:24
+German	Deu 29:25
+German	Deu 29:26
+German	Deu 29:27
+German	Deu 29:28
+German	1 Sam 21:1
+German	1 Sam 21:2
+German	1 Sam 21:3
+German	1 Sam 21:4
+German	1 Sam 21:5
+German	1 Sam 21:6
+German	1 Sam 21:7
+German	1 Sam 21:8
+German	1 Sam 21:9
+German	1 Sam 21:10
+German	1 Sam 21:11
+German	1 Sam 21:12
+German	1 Sam 21:13
+German	1 Sam 21:14
+German	1 Sam 21:15
+German	1 Sam 21:16
+German	1 Sam 24:1
+German	1 Sam 24:2
+German	1 Sam 24:3
+German	1 Sam 24:4
+German	1 Sam 24:5
+German	1 Sam 24:6
+German	1 Sam 24:7
+German	1 Sam 24:8
+German	1 Sam 24:9
+German	1 Sam 24:10
+German	1 Sam 24:11
+German	1 Sam 24:12
+German	1 Sam 24:13
+German	1 Sam 24:14
+German	1 Sam 24:15
+German	1 Sam 24:16
+German	1 Sam 24:17
+German	1 Sam 24:18
+German	1 Sam 24:19
+German	1 Sam 24:20
+German	1 Sam 24:21
+German	1 Sam 24:22
+German	1 Sam 24:23
+German	2 Sam 19:1
+German	2 Sam 19:2
+German	2 Sam 19:3
+German	2 Sam 19:4
+German	2 Sam 19:5
+German	2 Sam 19:6
+German	2 Sam 19:7
+German	2 Sam 19:8
+German	2 Sam 19:9
+German	2 Sam 19:10
+German	2 Sam 19:11
+German	2 Sam 19:12
+German	2 Sam 19:13
+German	2 Sam 19:14
+German	2 Sam 19:15
+German	2 Sam 19:16
+German	2 Sam 19:17
+German	2 Sam 19:18
+German	2 Sam 19:19
+German	2 Sam 19:20
+German	2 Sam 19:21
+German	2 Sam 19:22
+German	2 Sam 19:23
+German	2 Sam 19:24
+German	2 Sam 19:25
+German	2 Sam 19:26
+German	2 Sam 19:27
+German	2 Sam 19:28
+German	2 Sam 19:29
+German	2 Sam 19:30
+German	2 Sam 19:31
+German	2 Sam 19:32
+German	2 Sam 19:33
+German	2 Sam 19:34
+German	2 Sam 19:35
+German	2 Sam 19:36
+German	2 Sam 19:37
+German	2 Sam 19:38
+German	2 Sam 19:39
+German	2 Sam 19:40
+German	2 Sam 19:41
+German	2 Sam 19:42
+German	2 Sam 19:43
+German	2 Sam 19:44
+German	1 Ki 5:1
+German	1 Ki 5:2
+German	1 Ki 5:3
+German	1 Ki 5:4
+German	1 Ki 5:5
+German	1 Ki 5:6
+German	1 Ki 5:7
+German	1 Ki 5:8
+German	1 Ki 5:9
+German	1 Ki 5:10
+German	1 Ki 5:11
+German	1 Ki 5:12
+German	1 Ki 5:13
+German	1 Ki 5:14
+German	1 Ki 5:15
+German	1 Ki 5:16
+German	1 Ki 5:17
+German	1 Ki 5:18
+German	1 Ki 5:19
+German	1 Ki 5:20
+German	1 Ki 5:21
+German	1 Ki 5:22
+German	1 Ki 5:23
+German	1 Ki 5:24
+German	1 Ki 5:25
+German	1 Ki 5:26
+German	1 Ki 5:27
+German	1 Ki 5:28
+German	1 Ki 5:29
+German	1 Ki 5:30
+German	1 Ki 5:31
+German	1 Ki 5:32
+German	1 Ki 18:34
+German	1 Ki 22:21
+German	1 Ki 22:44
+German	1 Ki 22:45
+German	1 Ki 22:46
+German	1 Ki 22:47
+German	1 Ki 22:48
+German	1 Ki 22:49
+German	1 Ki 22:50
+German	1 Ki 22:51
+German	1 Ki 22:52
+German	1 Ki 22:53
+German	1 Ki 22:54
+German	2 Ki 12:1
+German	2 Ki 12:2
+German	2 Ki 12:3
+German	2 Ki 12:4
+German	2 Ki 12:5
+German	2 Ki 12:6
+German	2 Ki 12:7
+German	2 Ki 12:8
+German	2 Ki 12:9
+German	2 Ki 12:10
+German	2 Ki 12:11
+German	2 Ki 12:12
+German	2 Ki 12:13
+German	2 Ki 12:14
+German	2 Ki 12:15
+German	2 Ki 12:16
+German	2 Ki 12:17
+German	2 Ki 12:18
+German	2 Ki 12:19
+German	2 Ki 12:20
+German	2 Ki 12:21
+German	2 Ki 12:22
+German	1 Chr 5:27
+German	1 Chr 5:28
+German	1 Chr 5:29
+German	1 Chr 5:30
+German	1 Chr 5:31
+German	1 Chr 5:32
+German	1 Chr 5:33
+German	1 Chr 5:34
+German	1 Chr 5:35
+German	1 Chr 5:36
+German	1 Chr 5:37
+German	1 Chr 5:38
+German	1 Chr 5:39
+German	1 Chr 5:40
+German	1 Chr 5:41
+German	1 Chr 6:1
+German	1 Chr 6:2
+German	1 Chr 6:3
+German	1 Chr 6:4
+German	1 Chr 6:5
+German	1 Chr 6:6
+German	1 Chr 6:7
+German	1 Chr 6:8
+German	1 Chr 6:9
+German	1 Chr 6:10
+German	1 Chr 6:11
+German	1 Chr 6:12
+German	1 Chr 6:13
+German	1 Chr 6:14
+German	1 Chr 6:15
+German	1 Chr 6:16
+German	1 Chr 6:17
+German	1 Chr 6:18
+German	1 Chr 6:19
+German	1 Chr 6:20
+German	1 Chr 6:21
+German	1 Chr 6:22
+German	1 Chr 6:23
+German	1 Chr 6:24
+German	1 Chr 6:25
+German	1 Chr 6:26
+German	1 Chr 6:27
+German	1 Chr 6:28
+German	1 Chr 6:29
+German	1 Chr 6:30
+German	1 Chr 6:31
+German	1 Chr 6:32
+German	1 Chr 6:33
+German	1 Chr 6:34
+German	1 Chr 6:35
+German	1 Chr 6:36
+German	1 Chr 6:37
+German	1 Chr 6:38
+German	1 Chr 6:39
+German	1 Chr 6:40
+German	1 Chr 6:41
+German	1 Chr 6:42
+German	1 Chr 6:43
+German	1 Chr 6:44
+German	1 Chr 6:45
+German	1 Chr 6:46
+German	1 Chr 6:47
+German	1 Chr 6:48
+German	1 Chr 6:49
+German	1 Chr 6:50
+German	1 Chr 6:51
+German	1 Chr 6:52
+German	1 Chr 6:53
+German	1 Chr 6:54
+German	1 Chr 6:55
+German	1 Chr 6:56
+German	1 Chr 6:57
+German	1 Chr 6:58
+German	1 Chr 6:59
+German	1 Chr 6:60
+German	1 Chr 6:61
+German	1 Chr 6:62
+German	1 Chr 6:63
+German	1 Chr 6:64
+German	1 Chr 6:65
+German	1 Chr 6:66
+German	1 Chr 12:5
+German	1 Chr 12:6
+German	1 Chr 12:7
+German	1 Chr 12:8
+German	1 Chr 12:9
+German	1 Chr 12:10
+German	1 Chr 12:11
+German	1 Chr 12:12
+German	1 Chr 12:13
+German	1 Chr 12:14
+German	1 Chr 12:15
+German	1 Chr 12:16
+German	1 Chr 12:17
+German	1 Chr 12:18
+German	1 Chr 12:19
+German	1 Chr 12:20
+German	1 Chr 12:21
+German	1 Chr 12:22
+German	1 Chr 12:23
+German	1 Chr 12:24
+German	1 Chr 12:25
+German	1 Chr 12:26
+German	1 Chr 12:27
+German	1 Chr 12:28
+German	1 Chr 12:29
+German	1 Chr 12:30
+German	1 Chr 12:31
+German	1 Chr 12:32
+German	1 Chr 12:33
+German	1 Chr 12:34
+German	1 Chr 12:35
+German	1 Chr 12:36
+German	1 Chr 12:37
+German	1 Chr 12:38
+German	1 Chr 12:39
+German	1 Chr 12:40
+German	1 Chr 12:41
+German	2 Chr 1:18
+German	2 Chr 2:1
+German	2 Chr 2:2
+German	2 Chr 2:3
+German	2 Chr 2:4
+German	2 Chr 2:5
+German	2 Chr 2:6
+German	2 Chr 2:7
+German	2 Chr 2:8
+German	2 Chr 2:9
+German	2 Chr 2:10
+German	2 Chr 2:11
+German	2 Chr 2:12
+German	2 Chr 2:13
+German	2 Chr 2:14
+German	2 Chr 2:15
+German	2 Chr 2:16
+German	2 Chr 2:17
+German	2 Chr 13:23
+German	2 Chr 14:1
+German	2 Chr 14:2
+German	2 Chr 14:3
+German	2 Chr 14:4
+German	2 Chr 14:5
+German	2 Chr 14:6
+German	2 Chr 14:7
+German	2 Chr 14:8
+German	2 Chr 14:9
+German	2 Chr 14:10
+German	2 Chr 14:11
+German	2 Chr 14:12
+German	2 Chr 14:13
+German	2 Chr 14:14
+German	Neh 3:33
+German	Neh 3:34
+German	Neh 3:35
+German	Neh 3:36
+German	Neh 3:37
+German	Neh 3:38
+German	Neh 4:1
+German	Neh 4:2
+German	Neh 4:3
+German	Neh 4:4
+German	Neh 4:5
+German	Neh 4:6
+German	Neh 4:7
+German	Neh 4:8
+German	Neh 4:9
+German	Neh 4:10
+German	Neh 4:11
+German	Neh 4:12
+German	Neh 4:13
+German	Neh 4:14
+German	Neh 4:15
+German	Neh 4:16
+German	Neh 4:17
+German	Neh 7:68
+German	Neh 7:69
+German	Neh 7:70
+German	Neh 7:71
+German	Neh 7:72
+German	Neh 10:1
+German	Neh 10:2
+German	Neh 10:3
+German	Neh 10:4
+German	Neh 10:5
+German	Neh 10:6
+German	Neh 10:7
+German	Neh 10:8
+German	Neh 10:9
+German	Neh 10:10
+German	Neh 10:11
+German	Neh 10:12
+German	Neh 10:13
+German	Neh 10:14
+German	Neh 10:15
+German	Neh 10:16
+German	Neh 10:17
+German	Neh 10:18
+German	Neh 10:19
+German	Neh 10:20
+German	Neh 10:21
+German	Neh 10:22
+German	Neh 10:23
+German	Neh 10:24
+German	Neh 10:25
+German	Neh 10:26
+German	Neh 10:27
+German	Neh 10:28
+German	Neh 10:29
+German	Neh 10:30
+German	Neh 10:31
+German	Neh 10:32
+German	Neh 10:33
+German	Neh 10:34
+German	Neh 10:35
+German	Neh 10:36
+German	Neh 10:37
+German	Neh 10:38
+German	Neh 10:39
+German	Neh 10:40
+German	Job 40:25
+German	Job 40:26
+German	Job 40:27
+German	Job 40:28
+German	Job 40:29
+German	Job 40:30
+German	Job 40:31
+German	Job 40:32
+German	Job 41:1
+German	Job 41:2
+German	Job 41:3
+German	Job 41:4
+German	Job 41:5
+German	Job 41:6
+German	Job 41:7
+German	Job 41:8
+German	Job 41:9
+German	Job 41:10
+German	Job 41:11
+German	Job 41:12
+German	Job 41:13
+German	Job 41:14
+German	Job 41:15
+German	Job 41:16
+German	Job 41:17
+German	Job 41:18
+German	Job 41:19
+German	Job 41:20
+German	Job 41:21
+German	Job 41:22
+German	Job 41:23
+German	Job 41:24
+German	Job 41:25
+German	Job 41:26
+German	Psa 3:2
+German	Psa 3:3
+German	Psa 3:4
+German	Psa 3:5
+German	Psa 3:6
+German	Psa 3:7
+German	Psa 3:8
+German	Psa 3:9
+German	Psa 4:2
+German	Psa 4:3
+German	Psa 4:4
+German	Psa 4:5
+German	Psa 4:6
+German	Psa 4:7
+German	Psa 4:8
+German	Psa 4:9
+German	Psa 5:2
+German	Psa 5:3
+German	Psa 5:4
+German	Psa 5:5
+German	Psa 5:6
+German	Psa 5:7
+German	Psa 5:8
+German	Psa 5:9
+German	Psa 5:10
+German	Psa 5:11
+German	Psa 5:12
+German	Psa 5:13
+German	Psa 6:2
+German	Psa 6:3
+German	Psa 6:4
+German	Psa 6:5
+German	Psa 6:6
+German	Psa 6:7
+German	Psa 6:8
+German	Psa 6:9
+German	Psa 6:10
+German	Psa 6:11
+German	Psa 7:2
+German	Psa 7:3
+German	Psa 7:4
+German	Psa 7:5
+German	Psa 7:6
+German	Psa 7:7
+German	Psa 7:8
+German	Psa 7:9
+German	Psa 7:10
+German	Psa 7:11
+German	Psa 7:12
+German	Psa 7:13
+German	Psa 7:14
+German	Psa 7:15
+German	Psa 7:16
+German	Psa 7:17
+German	Psa 7:18
+German	Psa 8:2
+German	Psa 8:3
+German	Psa 8:4
+German	Psa 8:5
+German	Psa 8:6
+German	Psa 8:7
+German	Psa 8:8
+German	Psa 8:9
+German	Psa 8:10
+German	Psa 9:2
+German	Psa 9:3
+German	Psa 9:4
+German	Psa 9:5
+German	Psa 9:6
+German	Psa 9:7
+German	Psa 9:8
+German	Psa 9:9
+German	Psa 9:10
+German	Psa 9:11
+German	Psa 9:12
+German	Psa 9:13
+German	Psa 9:14
+German	Psa 9:15
+German	Psa 9:16
+German	Psa 9:17
+German	Psa 9:18
+German	Psa 9:19
+German	Psa 9:20
+German	Psa 9:21
+German	Psa 12:2
+German	Psa 12:3
+German	Psa 12:4
+German	Psa 12:5
+German	Psa 12:6
+German	Psa 12:7
+German	Psa 12:8
+German	Psa 12:9
+German	Psa 13:2
+German	Psa 13:3
+German	Psa 13:4
+German	Psa 13:5
+German	Psa 13:6
+German	Psa 18:2
+German	Psa 18:3
+German	Psa 18:4
+German	Psa 18:5
+German	Psa 18:6
+German	Psa 18:7
+German	Psa 18:8
+German	Psa 18:9
+German	Psa 18:10
+German	Psa 18:11
+German	Psa 18:12
+German	Psa 18:13
+German	Psa 18:14
+German	Psa 18:15
+German	Psa 18:16
+German	Psa 18:17
+German	Psa 18:18
+German	Psa 18:19
+German	Psa 18:20
+German	Psa 18:21
+German	Psa 18:22
+German	Psa 18:23
+German	Psa 18:24
+German	Psa 18:25
+German	Psa 18:26
+German	Psa 18:27
+German	Psa 18:28
+German	Psa 18:29
+German	Psa 18:30
+German	Psa 18:31
+German	Psa 18:32
+German	Psa 18:33
+German	Psa 18:34
+German	Psa 18:35
+German	Psa 18:36
+German	Psa 18:37
+German	Psa 18:38
+German	Psa 18:39
+German	Psa 18:40
+German	Psa 18:41
+German	Psa 18:42
+German	Psa 18:43
+German	Psa 18:44
+German	Psa 18:45
+German	Psa 18:46
+German	Psa 18:47
+German	Psa 18:48
+German	Psa 18:49
+German	Psa 18:50
+German	Psa 18:51
+German	Psa 19:2
+German	Psa 19:3
+German	Psa 19:4
+German	Psa 19:5
+German	Psa 19:6
+German	Psa 19:7
+German	Psa 19:8
+German	Psa 19:9
+German	Psa 19:10
+German	Psa 19:11
+German	Psa 19:12
+German	Psa 19:13
+German	Psa 19:14
+German	Psa 19:15
+German	Psa 20:2
+German	Psa 20:3
+German	Psa 20:4
+German	Psa 20:5
+German	Psa 20:6
+German	Psa 20:7
+German	Psa 20:8
+German	Psa 20:9
+German	Psa 20:10
+German	Psa 21:2
+German	Psa 21:3
+German	Psa 21:4
+German	Psa 21:5
+German	Psa 21:6
+German	Psa 21:7
+German	Psa 21:8
+German	Psa 21:9
+German	Psa 21:10
+German	Psa 21:11
+German	Psa 21:12
+German	Psa 21:13
+German	Psa 21:14
+German	Psa 22:2
+German	Psa 22:3
+German	Psa 22:4
+German	Psa 22:5
+German	Psa 22:6
+German	Psa 22:7
+German	Psa 22:8
+German	Psa 22:9
+German	Psa 22:10
+German	Psa 22:11
+German	Psa 22:12
+German	Psa 22:13
+German	Psa 22:14
+German	Psa 22:15
+German	Psa 22:16
+German	Psa 22:17
+German	Psa 22:18
+German	Psa 22:19
+German	Psa 22:20
+German	Psa 22:21
+German	Psa 22:22
+German	Psa 22:23
+German	Psa 22:24
+German	Psa 22:25
+German	Psa 22:26
+German	Psa 22:27
+German	Psa 22:28
+German	Psa 22:29
+German	Psa 22:30
+German	Psa 22:31
+German	Psa 22:32
+German	Psa 30:2
+German	Psa 30:3
+German	Psa 30:4
+German	Psa 30:5
+German	Psa 30:6
+German	Psa 30:7
+German	Psa 30:8
+German	Psa 30:9
+German	Psa 30:10
+German	Psa 30:11
+German	Psa 30:12
+German	Psa 30:13
+German	Psa 31:2
+German	Psa 31:3
+German	Psa 31:4
+German	Psa 31:5
+German	Psa 31:6
+German	Psa 31:7
+German	Psa 31:8
+German	Psa 31:9
+German	Psa 31:10
+German	Psa 31:11
+German	Psa 31:12
+German	Psa 31:13
+German	Psa 31:14
+German	Psa 31:15
+German	Psa 31:16
+German	Psa 31:17
+German	Psa 31:18
+German	Psa 31:19
+German	Psa 31:20
+German	Psa 31:21
+German	Psa 31:22
+German	Psa 31:23
+German	Psa 31:24
+German	Psa 31:25
+German	Psa 34:2
+German	Psa 34:3
+German	Psa 34:4
+German	Psa 34:5
+German	Psa 34:6
+German	Psa 34:7
+German	Psa 34:8
+German	Psa 34:9
+German	Psa 34:10
+German	Psa 34:11
+German	Psa 34:12
+German	Psa 34:13
+German	Psa 34:14
+German	Psa 34:15
+German	Psa 34:16
+German	Psa 34:17
+German	Psa 34:18
+German	Psa 34:19
+German	Psa 34:20
+German	Psa 34:21
+German	Psa 34:22
+German	Psa 34:23
+German	Psa 36:2
+German	Psa 36:3
+German	Psa 36:4
+German	Psa 36:5
+German	Psa 36:6
+German	Psa 36:7
+German	Psa 36:8
+German	Psa 36:9
+German	Psa 36:10
+German	Psa 36:11
+German	Psa 36:12
+German	Psa 36:13
+German	Psa 38:2
+German	Psa 38:3
+German	Psa 38:4
+German	Psa 38:5
+German	Psa 38:6
+German	Psa 38:7
+German	Psa 38:8
+German	Psa 38:9
+German	Psa 38:10
+German	Psa 38:11
+German	Psa 38:12
+German	Psa 38:13
+German	Psa 38:14
+German	Psa 38:15
+German	Psa 38:16
+German	Psa 38:17
+German	Psa 38:18
+German	Psa 38:19
+German	Psa 38:20
+German	Psa 38:21
+German	Psa 38:22
+German	Psa 38:23
+German	Psa 39:2
+German	Psa 39:3
+German	Psa 39:4
+German	Psa 39:5
+German	Psa 39:6
+German	Psa 39:7
+German	Psa 39:8
+German	Psa 39:9
+German	Psa 39:10
+German	Psa 39:11
+German	Psa 39:12
+German	Psa 39:13
+German	Psa 39:14
+German	Psa 40:2
+German	Psa 40:3
+German	Psa 40:4
+German	Psa 40:5
+German	Psa 40:6
+German	Psa 40:7
+German	Psa 40:8
+German	Psa 40:9
+German	Psa 40:10
+German	Psa 40:11
+German	Psa 40:12
+German	Psa 40:13
+German	Psa 40:14
+German	Psa 40:15
+German	Psa 40:16
+German	Psa 40:17
+German	Psa 40:18
+German	Psa 41:2
+German	Psa 41:3
+German	Psa 41:4
+German	Psa 41:5
+German	Psa 41:6
+German	Psa 41:7
+German	Psa 41:8
+German	Psa 41:9
+German	Psa 41:10
+German	Psa 41:11
+German	Psa 41:12
+German	Psa 41:13
+German	Psa 41:14
+German	Psa 42:2
+German	Psa 42:3
+German	Psa 42:4
+German	Psa 42:5
+German	Psa 42:6
+German	Psa 42:7
+German	Psa 42:8
+German	Psa 42:9
+German	Psa 42:10
+German	Psa 42:11
+German	Psa 42:12
+German	Psa 44:2
+German	Psa 44:3
+German	Psa 44:4
+German	Psa 44:5
+German	Psa 44:6
+German	Psa 44:7
+German	Psa 44:8
+German	Psa 44:9
+German	Psa 44:10
+German	Psa 44:11
+German	Psa 44:12
+German	Psa 44:13
+German	Psa 44:14
+German	Psa 44:15
+German	Psa 44:16
+German	Psa 44:17
+German	Psa 44:18
+German	Psa 44:19
+German	Psa 44:20
+German	Psa 44:21
+German	Psa 44:22
+German	Psa 44:23
+German	Psa 44:24
+German	Psa 44:25
+German	Psa 44:26
+German	Psa 44:27
+German	Psa 45:2
+German	Psa 45:3
+German	Psa 45:4
+German	Psa 45:5
+German	Psa 45:6
+German	Psa 45:7
+German	Psa 45:8
+German	Psa 45:9
+German	Psa 45:10
+German	Psa 45:11
+German	Psa 45:12
+German	Psa 45:13
+German	Psa 45:14
+German	Psa 45:15
+German	Psa 45:16
+German	Psa 45:17
+German	Psa 45:18
+German	Psa 46:2
+German	Psa 46:3
+German	Psa 46:4
+German	Psa 46:5
+German	Psa 46:6
+German	Psa 46:7
+German	Psa 46:8
+German	Psa 46:9
+German	Psa 46:10
+German	Psa 46:11
+German	Psa 46:12
+German	Psa 47:2
+German	Psa 47:3
+German	Psa 47:4
+German	Psa 47:5
+German	Psa 47:6
+German	Psa 47:7
+German	Psa 47:8
+German	Psa 47:9
+German	Psa 47:10
+German	Psa 48:2
+German	Psa 48:3
+German	Psa 48:4
+German	Psa 48:5
+German	Psa 48:6
+German	Psa 48:7
+German	Psa 48:8
+German	Psa 48:9
+German	Psa 48:10
+German	Psa 48:11
+German	Psa 48:12
+German	Psa 48:13
+German	Psa 48:14
+German	Psa 48:15
+German	Psa 49:2
+German	Psa 49:3
+German	Psa 49:4
+German	Psa 49:5
+German	Psa 49:6
+German	Psa 49:7
+German	Psa 49:8
+German	Psa 49:9
+German	Psa 49:10
+German	Psa 49:11
+German	Psa 49:12
+German	Psa 49:13
+German	Psa 49:14
+German	Psa 49:15
+German	Psa 49:16
+German	Psa 49:17
+German	Psa 49:18
+German	Psa 49:19
+German	Psa 49:20
+German	Psa 49:21
+German	Psa 51:2
+German	Psa 51:3
+German	Psa 51:4
+German	Psa 51:5
+German	Psa 51:6
+German	Psa 51:7
+German	Psa 51:8
+German	Psa 51:9
+German	Psa 51:10
+German	Psa 51:11
+German	Psa 51:12
+German	Psa 51:13
+German	Psa 51:14
+German	Psa 51:15
+German	Psa 51:16
+German	Psa 51:17
+German	Psa 51:18
+German	Psa 51:19
+German	Psa 51:20
+German	Psa 51:21
+German	Psa 52:2
+German	Psa 52:3
+German	Psa 52:4
+German	Psa 52:5
+German	Psa 52:6
+German	Psa 52:7
+German	Psa 52:8
+German	Psa 52:9
+German	Psa 52:10
+German	Psa 52:11
+German	Psa 53:2
+German	Psa 53:3
+German	Psa 53:4
+German	Psa 53:5
+German	Psa 53:6
+German	Psa 53:7
+German	Psa 54:2
+German	Psa 54:3
+German	Psa 54:4
+German	Psa 54:5
+German	Psa 54:6
+German	Psa 54:7
+German	Psa 54:8
+German	Psa 54:9
+German	Psa 55:2
+German	Psa 55:3
+German	Psa 55:4
+German	Psa 55:5
+German	Psa 55:6
+German	Psa 55:7
+German	Psa 55:8
+German	Psa 55:9
+German	Psa 55:10
+German	Psa 55:11
+German	Psa 55:12
+German	Psa 55:13
+German	Psa 55:14
+German	Psa 55:15
+German	Psa 55:16
+German	Psa 55:17
+German	Psa 55:18
+German	Psa 55:19
+German	Psa 55:20
+German	Psa 55:21
+German	Psa 55:22
+German	Psa 55:23
+German	Psa 55:24
+German	Psa 56:2
+German	Psa 56:3
+German	Psa 56:4
+German	Psa 56:5
+German	Psa 56:6
+German	Psa 56:7
+German	Psa 56:8
+German	Psa 56:9
+German	Psa 56:10
+German	Psa 56:11
+German	Psa 56:12
+German	Psa 56:13
+German	Psa 56:14
+German	Psa 57:2
+German	Psa 57:3
+German	Psa 57:4
+German	Psa 57:5
+German	Psa 57:6
+German	Psa 57:7
+German	Psa 57:8
+German	Psa 57:9
+German	Psa 57:10
+German	Psa 57:11
+German	Psa 57:12
+German	Psa 58:2
+German	Psa 58:3
+German	Psa 58:4
+German	Psa 58:5
+German	Psa 58:6
+German	Psa 58:7
+German	Psa 58:8
+German	Psa 58:9
+German	Psa 58:10
+German	Psa 58:11
+German	Psa 58:12
+German	Psa 59:2
+German	Psa 59:3
+German	Psa 59:4
+German	Psa 59:5
+German	Psa 59:6
+German	Psa 59:7
+German	Psa 59:8
+German	Psa 59:9
+German	Psa 59:10
+German	Psa 59:11
+German	Psa 59:12
+German	Psa 59:13
+German	Psa 59:14
+German	Psa 59:15
+German	Psa 59:16
+German	Psa 59:17
+German	Psa 59:18
+German	Psa 60:2
+German	Psa 60:3
+German	Psa 60:4
+German	Psa 60:5
+German	Psa 60:6
+German	Psa 60:7
+German	Psa 60:8
+German	Psa 60:9
+German	Psa 60:10
+German	Psa 60:11
+German	Psa 60:12
+German	Psa 60:13
+German	Psa 60:14
+German	Psa 61:2
+German	Psa 61:3
+German	Psa 61:4
+German	Psa 61:5
+German	Psa 61:6
+German	Psa 61:7
+German	Psa 61:8
+German	Psa 61:9
+German	Psa 62:2
+German	Psa 62:3
+German	Psa 62:4
+German	Psa 62:5
+German	Psa 62:6
+German	Psa 62:7
+German	Psa 62:8
+German	Psa 62:9
+German	Psa 62:10
+German	Psa 62:11
+German	Psa 62:12
+German	Psa 62:13
+German	Psa 63:2
+German	Psa 63:3
+German	Psa 63:4
+German	Psa 63:5
+German	Psa 63:6
+German	Psa 63:7
+German	Psa 63:8
+German	Psa 63:9
+German	Psa 63:10
+German	Psa 63:11
+German	Psa 63:12
+German	Psa 64:2
+German	Psa 64:3
+German	Psa 64:4
+German	Psa 64:5
+German	Psa 64:6
+German	Psa 64:7
+German	Psa 64:8
+German	Psa 64:9
+German	Psa 64:10
+German	Psa 64:11
+German	Psa 65:2
+German	Psa 65:3
+German	Psa 65:4
+German	Psa 65:5
+German	Psa 65:6
+German	Psa 65:7
+German	Psa 65:8
+German	Psa 65:9
+German	Psa 65:10
+German	Psa 65:11
+German	Psa 65:12
+German	Psa 65:13
+German	Psa 65:14
+German	Psa 67:2
+German	Psa 67:3
+German	Psa 67:4
+German	Psa 67:5
+German	Psa 67:6
+German	Psa 67:7
+German	Psa 67:8
+German	Psa 68:2
+German	Psa 68:3
+German	Psa 68:4
+German	Psa 68:5
+German	Psa 68:6
+German	Psa 68:7
+German	Psa 68:8
+German	Psa 68:9
+German	Psa 68:10
+German	Psa 68:11
+German	Psa 68:12
+German	Psa 68:13
+German	Psa 68:14
+German	Psa 68:15
+German	Psa 68:16
+German	Psa 68:17
+German	Psa 68:18
+German	Psa 68:19
+German	Psa 68:20
+German	Psa 68:21
+German	Psa 68:22
+German	Psa 68:23
+German	Psa 68:24
+German	Psa 68:25
+German	Psa 68:26
+German	Psa 68:27
+German	Psa 68:28
+German	Psa 68:29
+German	Psa 68:30
+German	Psa 68:31
+German	Psa 68:32
+German	Psa 68:33
+German	Psa 68:34
+German	Psa 68:35
+German	Psa 68:36
+German	Psa 69:2
+German	Psa 69:3
+German	Psa 69:4
+German	Psa 69:5
+German	Psa 69:6
+German	Psa 69:7
+German	Psa 69:8
+German	Psa 69:9
+German	Psa 69:10
+German	Psa 69:11
+German	Psa 69:12
+German	Psa 69:13
+German	Psa 69:14
+German	Psa 69:15
+German	Psa 69:16
+German	Psa 69:17
+German	Psa 69:18
+German	Psa 69:19
+German	Psa 69:20
+German	Psa 69:21
+German	Psa 69:22
+German	Psa 69:23
+German	Psa 69:24
+German	Psa 69:25
+German	Psa 69:26
+German	Psa 69:27
+German	Psa 69:28
+German	Psa 69:29
+German	Psa 69:30
+German	Psa 69:31
+German	Psa 69:32
+German	Psa 69:33
+German	Psa 69:34
+German	Psa 69:35
+German	Psa 69:36
+German	Psa 69:37
+German	Psa 70:2
+German	Psa 70:3
+German	Psa 70:4
+German	Psa 70:5
+German	Psa 70:6
+German	Psa 75:2
+German	Psa 75:3
+German	Psa 75:4
+German	Psa 75:5
+German	Psa 75:6
+German	Psa 75:7
+German	Psa 75:8
+German	Psa 75:9
+German	Psa 75:10
+German	Psa 75:11
+German	Psa 76:2
+German	Psa 76:3
+German	Psa 76:4
+German	Psa 76:5
+German	Psa 76:6
+German	Psa 76:7
+German	Psa 76:8
+German	Psa 76:9
+German	Psa 76:10
+German	Psa 76:11
+German	Psa 76:12
+German	Psa 76:13
+German	Psa 77:2
+German	Psa 77:3
+German	Psa 77:4
+German	Psa 77:5
+German	Psa 77:6
+German	Psa 77:7
+German	Psa 77:8
+German	Psa 77:9
+German	Psa 77:10
+German	Psa 77:11
+German	Psa 77:12
+German	Psa 77:13
+German	Psa 77:14
+German	Psa 77:15
+German	Psa 77:16
+German	Psa 77:17
+German	Psa 77:18
+German	Psa 77:19
+German	Psa 77:20
+German	Psa 77:21
+German	Psa 80:2
+German	Psa 80:3
+German	Psa 80:4
+German	Psa 80:5
+German	Psa 80:6
+German	Psa 80:7
+German	Psa 80:8
+German	Psa 80:9
+German	Psa 80:10
+German	Psa 80:11
+German	Psa 80:12
+German	Psa 80:13
+German	Psa 80:14
+German	Psa 80:15
+German	Psa 80:16
+German	Psa 80:17
+German	Psa 80:18
+German	Psa 80:19
+German	Psa 80:20
+German	Psa 81:2
+German	Psa 81:3
+German	Psa 81:4
+German	Psa 81:5
+German	Psa 81:6
+German	Psa 81:7
+German	Psa 81:8
+German	Psa 81:9
+German	Psa 81:10
+German	Psa 81:11
+German	Psa 81:12
+German	Psa 81:13
+German	Psa 81:14
+German	Psa 81:15
+German	Psa 81:16
+German	Psa 81:17
+German	Psa 83:2
+German	Psa 83:3
+German	Psa 83:4
+German	Psa 83:5
+German	Psa 83:6
+German	Psa 83:7
+German	Psa 83:8
+German	Psa 83:9
+German	Psa 83:10
+German	Psa 83:11
+German	Psa 83:12
+German	Psa 83:13
+German	Psa 83:14
+German	Psa 83:15
+German	Psa 83:16
+German	Psa 83:17
+German	Psa 83:18
+German	Psa 83:19
+German	Psa 84:2
+German	Psa 84:3
+German	Psa 84:4
+German	Psa 84:5
+German	Psa 84:6
+German	Psa 84:7
+German	Psa 84:8
+German	Psa 84:9
+German	Psa 84:10
+German	Psa 84:11
+German	Psa 84:12
+German	Psa 84:13
+German	Psa 85:2
+German	Psa 85:3
+German	Psa 85:4
+German	Psa 85:5
+German	Psa 85:6
+German	Psa 85:7
+German	Psa 85:8
+German	Psa 85:9
+German	Psa 85:10
+German	Psa 85:11
+German	Psa 85:12
+German	Psa 85:13
+German	Psa 85:14
+German	Psa 88:2
+German	Psa 88:3
+German	Psa 88:4
+German	Psa 88:5
+German	Psa 88:6
+German	Psa 88:7
+German	Psa 88:8
+German	Psa 88:9
+German	Psa 88:10
+German	Psa 88:11
+German	Psa 88:12
+German	Psa 88:13
+German	Psa 88:14
+German	Psa 88:15
+German	Psa 88:16
+German	Psa 88:17
+German	Psa 88:18
+German	Psa 88:19
+German	Psa 89:2
+German	Psa 89:3
+German	Psa 89:4
+German	Psa 89:5
+German	Psa 89:6
+German	Psa 89:7
+German	Psa 89:8
+German	Psa 89:9
+German	Psa 89:10
+German	Psa 89:11
+German	Psa 89:12
+German	Psa 89:13
+German	Psa 89:14
+German	Psa 89:15
+German	Psa 89:16
+German	Psa 89:17
+German	Psa 89:18
+German	Psa 89:19
+German	Psa 89:20
+German	Psa 89:21
+German	Psa 89:22
+German	Psa 89:23
+German	Psa 89:24
+German	Psa 89:25
+German	Psa 89:26
+German	Psa 89:27
+German	Psa 89:28
+German	Psa 89:29
+German	Psa 89:30
+German	Psa 89:31
+German	Psa 89:32
+German	Psa 89:33
+German	Psa 89:34
+German	Psa 89:35
+German	Psa 89:36
+German	Psa 89:37
+German	Psa 89:38
+German	Psa 89:39
+German	Psa 89:40
+German	Psa 89:41
+German	Psa 89:42
+German	Psa 89:43
+German	Psa 89:44
+German	Psa 89:45
+German	Psa 89:46
+German	Psa 89:47
+German	Psa 89:48
+German	Psa 89:49
+German	Psa 89:50
+German	Psa 89:51
+German	Psa 89:52
+German	Psa 89:53
+German	Psa 92:2
+German	Psa 92:3
+German	Psa 92:4
+German	Psa 92:5
+German	Psa 92:6
+German	Psa 92:7
+German	Psa 92:8
+German	Psa 92:9
+German	Psa 92:10
+German	Psa 92:11
+German	Psa 92:12
+German	Psa 92:13
+German	Psa 92:14
+German	Psa 92:15
+German	Psa 92:16
+German	Psa 102:2
+German	Psa 102:3
+German	Psa 102:4
+German	Psa 102:5
+German	Psa 102:6
+German	Psa 102:7
+German	Psa 102:8
+German	Psa 102:9
+German	Psa 102:10
+German	Psa 102:11
+German	Psa 102:12
+German	Psa 102:13
+German	Psa 102:14
+German	Psa 102:15
+German	Psa 102:16
+German	Psa 102:17
+German	Psa 102:18
+German	Psa 102:19
+German	Psa 102:20
+German	Psa 102:21
+German	Psa 102:22
+German	Psa 102:23
+German	Psa 102:24
+German	Psa 102:25
+German	Psa 102:26
+German	Psa 102:27
+German	Psa 102:28
+German	Psa 102:29
+German	Psa 108:2
+German	Psa 108:3
+German	Psa 108:4
+German	Psa 108:5
+German	Psa 108:6
+German	Psa 108:7
+German	Psa 108:8
+German	Psa 108:9
+German	Psa 108:10
+German	Psa 108:11
+German	Psa 108:12
+German	Psa 108:13
+German	Psa 108:14
+German	Psa 140:2
+German	Psa 140:3
+German	Psa 140:4
+German	Psa 140:5
+German	Psa 140:6
+German	Psa 140:7
+German	Psa 140:8
+German	Psa 140:9
+German	Psa 140:10
+German	Psa 140:11
+German	Psa 140:12
+German	Psa 140:13
+German	Psa 140:14
+German	Psa 142:2
+German	Psa 142:3
+German	Psa 142:4
+German	Psa 142:5
+German	Psa 142:6
+German	Psa 142:7
+German	Psa 142:8
+German	Eccl 4:17
+German	Eccl 5:1
+German	Eccl 5:2
+German	Eccl 5:3
+German	Eccl 5:4
+German	Eccl 5:5
+German	Eccl 5:6
+German	Eccl 5:7
+German	Eccl 5:8
+German	Eccl 5:9
+German	Eccl 5:10
+German	Eccl 5:11
+German	Eccl 5:12
+German	Eccl 5:13
+German	Eccl 5:14
+German	Eccl 5:15
+German	Eccl 5:16
+German	Eccl 5:17
+German	Eccl 5:18
+German	Eccl 5:19
+German	S.S. 7:1
+German	S.S. 7:2
+German	S.S. 7:3
+German	S.S. 7:4
+German	S.S. 7:5
+German	S.S. 7:6
+German	S.S. 7:7
+German	S.S. 7:8
+German	S.S. 7:9
+German	S.S. 7:10
+German	S.S. 7:11
+German	S.S. 7:12
+German	S.S. 7:13
+German	S.S. 7:14
+German	Isa 8:23
+German	Isa 9:1
+German	Isa 9:2
+German	Isa 9:3
+German	Isa 9:4
+German	Isa 9:5
+German	Isa 9:6
+German	Isa 9:7
+German	Isa 9:8
+German	Isa 9:9
+German	Isa 9:10
+German	Isa 9:11
+German	Isa 9:12
+German	Isa 9:13
+German	Isa 9:14
+German	Isa 9:15
+German	Isa 9:16
+German	Isa 9:17
+German	Isa 9:18
+German	Isa 9:19
+German	Isa 9:20
+German	Isa 63:19
+German	Isa 64:1
+German	Isa 64:2
+German	Isa 64:3
+German	Isa 64:4
+German	Isa 64:5
+German	Isa 64:6
+German	Isa 64:7
+German	Isa 64:8
+German	Isa 64:9
+German	Isa 64:10
+German	Isa 64:11
+German	Jer 8:23
+German	Jer 9:1
+German	Jer 9:2
+German	Jer 9:3
+German	Jer 9:4
+German	Jer 9:5
+German	Jer 9:6
+German	Jer 9:7
+German	Jer 9:8
+German	Jer 9:9
+German	Jer 9:10
+German	Jer 9:11
+German	Jer 9:12
+German	Jer 9:13
+German	Jer 9:14
+German	Jer 9:15
+German	Jer 9:16
+German	Jer 9:17
+German	Jer 9:18
+German	Jer 9:19
+German	Jer 9:20
+German	Jer 9:21
+German	Jer 9:22
+German	Jer 9:23
+German	Jer 9:24
+German	Jer 9:25
+German	Ezek 21:1
+German	Ezek 21:2
+German	Ezek 21:3
+German	Ezek 21:4
+German	Ezek 21:5
+German	Ezek 21:6
+German	Ezek 21:7
+German	Ezek 21:8
+German	Ezek 21:9
+German	Ezek 21:10
+German	Ezek 21:11
+German	Ezek 21:12
+German	Ezek 21:13
+German	Ezek 21:14
+German	Ezek 21:15
+German	Ezek 21:16
+German	Ezek 21:17
+German	Ezek 21:18
+German	Ezek 21:19
+German	Ezek 21:20
+German	Ezek 21:21
+German	Ezek 21:22
+German	Ezek 21:23
+German	Ezek 21:24
+German	Ezek 21:25
+German	Ezek 21:26
+German	Ezek 21:27
+German	Ezek 21:28
+German	Ezek 21:29
+German	Ezek 21:30
+German	Ezek 21:31
+German	Ezek 21:32
+German	Ezek 21:33
+German	Ezek 21:34
+German	Ezek 21:35
+German	Ezek 21:36
+German	Ezek 21:37
+German	Dan 3:31
+German	Dan 3:32
+German	Dan 3:33
+German	Dan 4:1
+German	Dan 4:2
+German	Dan 4:3
+German	Dan 4:4
+German	Dan 4:5
+German	Dan 4:6
+German	Dan 4:7
+German	Dan 4:8
+German	Dan 4:9
+German	Dan 4:10
+German	Dan 4:11
+German	Dan 4:12
+German	Dan 4:13
+German	Dan 4:14
+German	Dan 4:15
+German	Dan 4:16
+German	Dan 4:17
+German	Dan 4:18
+German	Dan 4:19
+German	Dan 4:20
+German	Dan 4:21
+German	Dan 4:22
+German	Dan 4:23
+German	Dan 4:24
+German	Dan 4:25
+German	Dan 4:26
+German	Dan 4:27
+German	Dan 4:28
+German	Dan 4:29
+German	Dan 4:30
+German	Dan 4:31
+German	Dan 4:32
+German	Dan 4:33
+German	Dan 4:34
+German	Dan 6:1
+German	Dan 6:2
+German	Dan 6:3
+German	Dan 6:4
+German	Dan 6:5
+German	Dan 6:6
+German	Dan 6:7
+German	Dan 6:8
+German	Dan 6:9
+German	Dan 6:10
+German	Dan 6:11
+German	Dan 6:12
+German	Dan 6:13
+German	Dan 6:14
+German	Dan 6:15
+German	Dan 6:16
+German	Dan 6:17
+German	Dan 6:18
+German	Dan 6:19
+German	Dan 6:20
+German	Dan 6:21
+German	Dan 6:22
+German	Dan 6:23
+German	Dan 6:24
+German	Dan 6:25
+German	Dan 6:26
+German	Dan 6:27
+German	Dan 6:28
+German	Dan 6:29
+German	Hos 2:1
+German	Hos 2:2
+German	Hos 2:3
+German	Hos 2:4
+German	Hos 2:5
+German	Hos 2:6
+German	Hos 2:7
+German	Hos 2:8
+German	Hos 2:9
+German	Hos 2:10
+German	Hos 2:11
+German	Hos 2:12
+German	Hos 2:13
+German	Hos 2:14
+German	Hos 2:15
+German	Hos 2:16
+German	Hos 2:17
+German	Hos 2:18
+German	Hos 2:19
+German	Hos 2:20
+German	Hos 2:21
+German	Hos 2:22
+German	Hos 2:23
+German	Hos 2:24
+German	Hos 2:25
+German	Hos 12:1
+German	Hos 12:2
+German	Hos 12:3
+German	Hos 12:4
+German	Hos 12:5
+German	Hos 12:6
+German	Hos 12:7
+German	Hos 12:8
+German	Hos 12:9
+German	Hos 12:10
+German	Hos 12:11
+German	Hos 12:12
+German	Hos 12:13
+German	Hos 12:14
+German	Hos 12:15
+German	Hos 14:1
+German	Hos 14:2
+German	Hos 14:3
+German	Hos 14:4
+German	Hos 14:5
+German	Hos 14:6
+German	Hos 14:7
+German	Hos 14:8
+German	Hos 14:9
+German	Hos 14:10
+German	Joel 3:1
+German	Joel 3:2
+German	Joel 3:3
+German	Joel 3:4
+German	Joel 3:5
+German	Joel 4:1
+German	Joel 4:2
+German	Joel 4:3
+German	Joel 4:4
+German	Joel 4:5
+German	Joel 4:6
+German	Joel 4:7
+German	Joel 4:8
+German	Joel 4:9
+German	Joel 4:10
+German	Joel 4:11
+German	Joel 4:12
+German	Joel 4:13
+German	Joel 4:14
+German	Joel 4:15
+German	Joel 4:16
+German	Joel 4:17
+German	Joel 4:18
+German	Joel 4:19
+German	Joel 4:20
+German	Joel 4:21
+German	Joel 2:1
+German	Joel 2:2
+German	Joel 2:3
+German	Joel 2:4
+German	Joel 2:5
+German	Joel 2:6
+German	Joel 2:7
+German	Joel 2:8
+German	Joel 2:9
+German	Joel 2:10
+German	Joel 2:11
+German	Mic 4:14
+German	Mic 5:1
+German	Mic 5:2
+German	Mic 5:3
+German	Mic 5:4
+German	Mic 5:5
+German	Mic 5:6
+German	Mic 5:7
+German	Mic 5:8
+German	Mic 5:9
+German	Mic 5:10
+German	Mic 5:11
+German	Mic 5:12
+German	Mic 5:13
+German	Mic 5:14
+German	Nah 2:1
+German	Nah 2:2
+German	Nah 2:3
+German	Nah 2:4
+German	Nah 2:5
+German	Nah 2:6
+German	Nah 2:7
+German	Nah 2:8
+German	Nah 2:9
+German	Nah 2:10
+German	Nah 2:11
+German	Nah 2:12
+German	Nah 2:13
+German	Nah 2:14
+German	Zec 2:1
+German	Zec 2:2
+German	Zec 2:3
+German	Zec 2:4
+German	Zec 2:5
+German	Zec 2:6
+German	Zec 2:7
+German	Zec 2:8
+German	Zec 2:9
+German	Zec 2:10
+German	Zec 2:11
+German	Zec 2:12
+German	Zec 2:13
+German	Zec 2:14
+German	Zec 2:15
+German	Zec 2:16
+German	Zec 2:17
+German	Mal 3:19
+German	Mal 3:20
+German	Mal 3:21
+German	Mal 3:22
+German	Mal 3:23
+German	Mal 3:24

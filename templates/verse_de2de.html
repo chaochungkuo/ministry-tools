@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Adding German scriptures to German documents</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <div class="jumbotron text-center">
+            <h2>Adding German scriptures to German documents</h2>
+        </div>
+
+        <div class="container">
+            <p>This application does the following things:</p>
+            
+            <ul>
+                <li>Recieve a German document in docx format.</li>
+                <li>Identify all the scripture references in the document.</li>
+                <li>Add the German scriptures under each paragraph with light blue color.</li>
+                <li>Export another docx file with al scriptures.</li>
+            </ul>
+
+            <form method=post enctype=multipart/form-data>
+                <p><input type=file name=file>
+                    <input type=submit value=Process>
+                </p>
+            </form>
+            <hr/>
+            <p>For example, when you have a German document as below:</p>
+
+            <img src="{{url_for('static', filename='de2de_before.png')}}" align="middle" />
+
+            <p>This app will generate the document as below:</p>
+
+            <img src="{{url_for('static', filename='de2de_after.png')}}" align="middle" />
+        </div>
+    </body>
+</html>

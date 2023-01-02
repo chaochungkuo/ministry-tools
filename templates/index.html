@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lebensstrom toolbox</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <div class="jumbotron text-center">
+            <h1>Apps for the Translation Work</h1>
+            <p>Lasst das Wort Christi reichlich in euch wohnen in aller Weisheit... Kol. 3:16</p> 
+        </div>
+
+        <div class="container">
+        <p>The purpose of these applications is to assist the translation work in Lebensstrom. Please don't share these tools to non-translators who don't need them. Any feedback please send to <a href="mailto:joseph.kuo@lebensstrom.de">Joseph Kuo</a></p>
+        
+        <hr/>
+
+        <p>When a translator is working on the translation, it is always good to use the biblical terms and the sentences. Most of the expressions come from the Bible and we need to follow the Bible instead of developing a new expression. According to the input languages, there are two tools available:</p>
+
+        <h2><a href="{{ url_for('verse_de2de') }}">Adding German scriptures to German documents</a></h2>
+
+        <h2><a href="{{ url_for('verse_en2de') }}">Adding German scriptures to English documents</a></h2>
+
+        <hr/>
+
+        <p>Some notes as below:</p>
+        <ul>
+            <li>The German verses are based on Elberfelder CSV 2006. About 1000 crucial verses are updated with Recovery Version Bible in German.</li>
+            <li>Please use only docx file. No doc files will be accepted.</li>
+        </ul>
+
+        </div>
+        
+    </body>
+</html>

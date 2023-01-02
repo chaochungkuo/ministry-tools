@@ -1,0 +1,1977 @@
+English	English
+English	Gen 31:55
+English	Gen 32:1
+English	Gen 32:2
+English	Gen 32:3
+English	Gen 32:4
+English	Gen 32:5
+English	Gen 32:6
+English	Gen 32:7
+English	Gen 32:8
+English	Gen 32:9
+English	Gen 32:10
+English	Gen 32:11
+English	Gen 32:12
+English	Gen 32:13
+English	Gen 32:14
+English	Gen 32:15
+English	Gen 32:16
+English	Gen 32:17
+English	Gen 32:18
+English	Gen 32:19
+English	Gen 32:20
+English	Gen 32:21
+English	Gen 32:22
+English	Gen 32:23
+English	Gen 32:24
+English	Gen 32:25
+English	Gen 32:26
+English	Gen 32:27
+English	Gen 32:28
+English	Gen 32:29
+English	Gen 32:30
+English	Gen 32:31
+English	Gen 32:32
+English	Exo 8:1
+English	Exo 8:2
+English	Exo 8:3
+English	Exo 8:4
+English	Exo 8:5
+English	Exo 8:6
+English	Exo 8:7
+English	Exo 8:8
+English	Exo 8:9
+English	Exo 8:10
+English	Exo 8:11
+English	Exo 8:12
+English	Exo 8:13
+English	Exo 8:14
+English	Exo 8:15
+English	Exo 8:16
+English	Exo 8:17
+English	Exo 8:18
+English	Exo 8:19
+English	Exo 8:20
+English	Exo 8:21
+English	Exo 8:22
+English	Exo 8:23
+English	Exo 8:24
+English	Exo 8:25
+English	Exo 8:26
+English	Exo 8:27
+English	Exo 8:28
+English	Exo 8:29
+English	Exo 8:30
+English	Exo 8:31
+English	Exo 8:32
+English	Exo 22:1
+English	Exo 22:2
+English	Exo 22:3
+English	Exo 22:4
+English	Exo 22:5
+English	Exo 22:6
+English	Exo 22:7
+English	Exo 22:8
+English	Exo 22:9
+English	Exo 22:10
+English	Exo 22:11
+English	Exo 22:12
+English	Exo 22:13
+English	Exo 22:14
+English	Exo 22:15
+English	Exo 22:16
+English	Exo 22:17
+English	Exo 22:18
+English	Exo 22:19
+English	Exo 22:20
+English	Exo 22:21
+English	Exo 22:22
+English	Exo 22:23
+English	Exo 22:24
+English	Exo 22:25
+English	Exo 22:26
+English	Exo 22:27
+English	Exo 22:28
+English	Exo 22:29
+English	Exo 22:30
+English	Exo 22:31
+English	Lev 6:1
+English	Lev 6:2
+English	Lev 6:3
+English	Lev 6:4
+English	Lev 6:5
+English	Lev 6:6
+English	Lev 6:7
+English	Lev 6:8
+English	Lev 6:9
+English	Lev 6:10
+English	Lev 6:11
+English	Lev 6:12
+English	Lev 6:13
+English	Lev 6:14
+English	Lev 6:15
+English	Lev 6:16
+English	Lev 6:17
+English	Lev 6:18
+English	Lev 6:19
+English	Lev 6:20
+English	Lev 6:21
+English	Lev 6:22
+English	Lev 6:23
+English	Lev 6:24
+English	Lev 6:25
+English	Lev 6:26
+English	Lev 6:27
+English	Lev 6:28
+English	Lev 6:29
+English	Lev 6:30
+English	Num 16:36
+English	Num 16:37
+English	Num 16:38
+English	Num 16:39
+English	Num 16:40
+English	Num 16:41
+English	Num 16:42
+English	Num 16:43
+English	Num 16:44
+English	Num 16:45
+English	Num 16:46
+English	Num 16:47
+English	Num 16:48
+English	Num 16:49
+English	Num 16:50
+English	Num 17:1
+English	Num 17:2
+English	Num 17:3
+English	Num 17:4
+English	Num 17:5
+English	Num 17:6
+English	Num 17:7
+English	Num 17:8
+English	Num 17:9
+English	Num 17:10
+English	Num 17:11
+English	Num 17:12
+English	Num 17:13
+English	Num 26:1
+English	Num 29:40
+English	Num 30:1
+English	Num 30:2
+English	Num 30:3
+English	Num 30:4
+English	Num 30:5
+English	Num 30:6
+English	Num 30:7
+English	Num 30:8
+English	Num 30:9
+English	Num 30:10
+English	Num 30:11
+English	Num 30:12
+English	Num 30:13
+English	Num 30:14
+English	Num 30:15
+English	Num 30:16
+English	Deu 12:32
+English	Deu 13:1
+English	Deu 13:2
+English	Deu 13:3
+English	Deu 13:4
+English	Deu 13:5
+English	Deu 13:6
+English	Deu 13:7
+English	Deu 13:8
+English	Deu 13:9
+English	Deu 13:10
+English	Deu 13:11
+English	Deu 13:12
+English	Deu 13:13
+English	Deu 13:14
+English	Deu 13:15
+English	Deu 13:16
+English	Deu 13:17
+English	Deu 13:18
+English	Deu 22:30
+English	Deu 23:1
+English	Deu 23:2
+English	Deu 23:3
+English	Deu 23:4
+English	Deu 23:5
+English	Deu 23:6
+English	Deu 23:7
+English	Deu 23:8
+English	Deu 23:9
+English	Deu 23:10
+English	Deu 23:11
+English	Deu 23:12
+English	Deu 23:13
+English	Deu 23:14
+English	Deu 23:15
+English	Deu 23:16
+English	Deu 23:17
+English	Deu 23:18
+English	Deu 23:19
+English	Deu 23:20
+English	Deu 23:21
+English	Deu 23:22
+English	Deu 23:23
+English	Deu 23:24
+English	Deu 23:25
+English	Deu 29:1
+English	Deu 29:2
+English	Deu 29:3
+English	Deu 29:4
+English	Deu 29:5
+English	Deu 29:6
+English	Deu 29:7
+English	Deu 29:8
+English	Deu 29:9
+English	Deu 29:10
+English	Deu 29:11
+English	Deu 29:12
+English	Deu 29:13
+English	Deu 29:14
+English	Deu 29:15
+English	Deu 29:16
+English	Deu 29:17
+English	Deu 29:18
+English	Deu 29:19
+English	Deu 29:20
+English	Deu 29:21
+English	Deu 29:22
+English	Deu 29:23
+English	Deu 29:24
+English	Deu 29:25
+English	Deu 29:26
+English	Deu 29:27
+English	Deu 29:28
+English	Deu 29:29
+English	1 Sam 20:42
+English	1 Sam 21:1
+English	1 Sam 21:2
+English	1 Sam 21:3
+English	1 Sam 21:4
+English	1 Sam 21:5
+English	1 Sam 21:6
+English	1 Sam 21:7
+English	1 Sam 21:8
+English	1 Sam 21:9
+English	1 Sam 21:10
+English	1 Sam 21:11
+English	1 Sam 21:12
+English	1 Sam 21:13
+English	1 Sam 21:14
+English	1 Sam 21:15
+English	1 Sam 23:29
+English	1 Sam 24:1
+English	1 Sam 24:2
+English	1 Sam 24:3
+English	1 Sam 24:4
+English	1 Sam 24:5
+English	1 Sam 24:6
+English	1 Sam 24:7
+English	1 Sam 24:8
+English	1 Sam 24:9
+English	1 Sam 24:10
+English	1 Sam 24:11
+English	1 Sam 24:12
+English	1 Sam 24:13
+English	1 Sam 24:14
+English	1 Sam 24:15
+English	1 Sam 24:16
+English	1 Sam 24:17
+English	1 Sam 24:18
+English	1 Sam 24:19
+English	1 Sam 24:20
+English	1 Sam 24:21
+English	1 Sam 24:22
+English	2 Sam 18:33
+English	2 Sam 19:1
+English	2 Sam 19:2
+English	2 Sam 19:3
+English	2 Sam 19:4
+English	2 Sam 19:5
+English	2 Sam 19:6
+English	2 Sam 19:7
+English	2 Sam 19:8
+English	2 Sam 19:9
+English	2 Sam 19:10
+English	2 Sam 19:11
+English	2 Sam 19:12
+English	2 Sam 19:13
+English	2 Sam 19:14
+English	2 Sam 19:15
+English	2 Sam 19:16
+English	2 Sam 19:17
+English	2 Sam 19:18
+English	2 Sam 19:19
+English	2 Sam 19:20
+English	2 Sam 19:21
+English	2 Sam 19:22
+English	2 Sam 19:23
+English	2 Sam 19:24
+English	2 Sam 19:25
+English	2 Sam 19:26
+English	2 Sam 19:27
+English	2 Sam 19:28
+English	2 Sam 19:29
+English	2 Sam 19:30
+English	2 Sam 19:31
+English	2 Sam 19:32
+English	2 Sam 19:33
+English	2 Sam 19:34
+English	2 Sam 19:35
+English	2 Sam 19:36
+English	2 Sam 19:37
+English	2 Sam 19:38
+English	2 Sam 19:39
+English	2 Sam 19:40
+English	2 Sam 19:41
+English	2 Sam 19:42
+English	2 Sam 19:43
+English	1 Ki 4:21
+English	1 Ki 4:22
+English	1 Ki 4:23
+English	1 Ki 4:24
+English	1 Ki 4:25
+English	1 Ki 4:26
+English	1 Ki 4:27
+English	1 Ki 4:28
+English	1 Ki 4:29
+English	1 Ki 4:30
+English	1 Ki 4:31
+English	1 Ki 4:32
+English	1 Ki 4:33
+English	1 Ki 4:34
+English	1 Ki 5:1
+English	1 Ki 5:2
+English	1 Ki 5:3
+English	1 Ki 5:4
+English	1 Ki 5:5
+English	1 Ki 5:6
+English	1 Ki 5:7
+English	1 Ki 5:8
+English	1 Ki 5:9
+English	1 Ki 5:10
+English	1 Ki 5:11
+English	1 Ki 5:12
+English	1 Ki 5:13
+English	1 Ki 5:14
+English	1 Ki 5:15
+English	1 Ki 5:16
+English	1 Ki 5:17
+English	1 Ki 5:18
+English	1 Ki 18:33
+English	1 Ki 22:22
+English	1 Ki 22:43
+English	1 Ki 22:44
+English	1 Ki 22:45
+English	1 Ki 22:46
+English	1 Ki 22:47
+English	1 Ki 22:48
+English	1 Ki 22:49
+English	1 Ki 22:50
+English	1 Ki 22:51
+English	1 Ki 22:52
+English	1 Ki 22:53
+English	2 Ki 11:21
+English	2 Ki 12:1
+English	2 Ki 12:2
+English	2 Ki 12:3
+English	2 Ki 12:4
+English	2 Ki 12:5
+English	2 Ki 12:6
+English	2 Ki 12:7
+English	2 Ki 12:8
+English	2 Ki 12:9
+English	2 Ki 12:10
+English	2 Ki 12:11
+English	2 Ki 12:12
+English	2 Ki 12:13
+English	2 Ki 12:14
+English	2 Ki 12:15
+English	2 Ki 12:16
+English	2 Ki 12:17
+English	2 Ki 12:18
+English	2 Ki 12:19
+English	2 Ki 12:20
+English	2 Ki 12:21
+English	1 Chr 6:1
+English	1 Chr 6:2
+English	1 Chr 6:3
+English	1 Chr 6:4
+English	1 Chr 6:5
+English	1 Chr 6:6
+English	1 Chr 6:7
+English	1 Chr 6:8
+English	1 Chr 6:9
+English	1 Chr 6:10
+English	1 Chr 6:11
+English	1 Chr 6:12
+English	1 Chr 6:13
+English	1 Chr 6:14
+English	1 Chr 6:15
+English	1 Chr 6:16
+English	1 Chr 6:17
+English	1 Chr 6:18
+English	1 Chr 6:19
+English	1 Chr 6:20
+English	1 Chr 6:21
+English	1 Chr 6:22
+English	1 Chr 6:23
+English	1 Chr 6:24
+English	1 Chr 6:25
+English	1 Chr 6:26
+English	1 Chr 6:27
+English	1 Chr 6:28
+English	1 Chr 6:29
+English	1 Chr 6:30
+English	1 Chr 6:31
+English	1 Chr 6:32
+English	1 Chr 6:33
+English	1 Chr 6:34
+English	1 Chr 6:35
+English	1 Chr 6:36
+English	1 Chr 6:37
+English	1 Chr 6:38
+English	1 Chr 6:39
+English	1 Chr 6:40
+English	1 Chr 6:41
+English	1 Chr 6:42
+English	1 Chr 6:43
+English	1 Chr 6:44
+English	1 Chr 6:45
+English	1 Chr 6:46
+English	1 Chr 6:47
+English	1 Chr 6:48
+English	1 Chr 6:49
+English	1 Chr 6:50
+English	1 Chr 6:51
+English	1 Chr 6:52
+English	1 Chr 6:53
+English	1 Chr 6:54
+English	1 Chr 6:55
+English	1 Chr 6:56
+English	1 Chr 6:57
+English	1 Chr 6:58
+English	1 Chr 6:59
+English	1 Chr 6:60
+English	1 Chr 6:61
+English	1 Chr 6:62
+English	1 Chr 6:63
+English	1 Chr 6:64
+English	1 Chr 6:65
+English	1 Chr 6:66
+English	1 Chr 6:67
+English	1 Chr 6:68
+English	1 Chr 6:69
+English	1 Chr 6:70
+English	1 Chr 6:71
+English	1 Chr 6:72
+English	1 Chr 6:73
+English	1 Chr 6:74
+English	1 Chr 6:75
+English	1 Chr 6:76
+English	1 Chr 6:77
+English	1 Chr 6:78
+English	1 Chr 6:79
+English	1 Chr 6:80
+English	1 Chr 6:81
+English	1 Chr 12:4
+English	1 Chr 12:5
+English	1 Chr 12:6
+English	1 Chr 12:7
+English	1 Chr 12:8
+English	1 Chr 12:9
+English	1 Chr 12:10
+English	1 Chr 12:11
+English	1 Chr 12:12
+English	1 Chr 12:13
+English	1 Chr 12:14
+English	1 Chr 12:15
+English	1 Chr 12:16
+English	1 Chr 12:17
+English	1 Chr 12:18
+English	1 Chr 12:19
+English	1 Chr 12:20
+English	1 Chr 12:21
+English	1 Chr 12:22
+English	1 Chr 12:23
+English	1 Chr 12:24
+English	1 Chr 12:25
+English	1 Chr 12:26
+English	1 Chr 12:27
+English	1 Chr 12:28
+English	1 Chr 12:29
+English	1 Chr 12:30
+English	1 Chr 12:31
+English	1 Chr 12:32
+English	1 Chr 12:33
+English	1 Chr 12:34
+English	1 Chr 12:35
+English	1 Chr 12:36
+English	1 Chr 12:37
+English	1 Chr 12:38
+English	1 Chr 12:39
+English	1 Chr 12:40
+English	2 Chr 2:1
+English	2 Chr 2:2
+English	2 Chr 2:3
+English	2 Chr 2:4
+English	2 Chr 2:5
+English	2 Chr 2:6
+English	2 Chr 2:7
+English	2 Chr 2:8
+English	2 Chr 2:9
+English	2 Chr 2:10
+English	2 Chr 2:11
+English	2 Chr 2:12
+English	2 Chr 2:13
+English	2 Chr 2:14
+English	2 Chr 2:15
+English	2 Chr 2:16
+English	2 Chr 2:17
+English	2 Chr 2:18
+English	2 Chr 14:1
+English	2 Chr 14:2
+English	2 Chr 14:3
+English	2 Chr 14:4
+English	2 Chr 14:5
+English	2 Chr 14:6
+English	2 Chr 14:7
+English	2 Chr 14:8
+English	2 Chr 14:9
+English	2 Chr 14:10
+English	2 Chr 14:11
+English	2 Chr 14:12
+English	2 Chr 14:13
+English	2 Chr 14:14
+English	2 Chr 14:15
+English	Neh 4:1
+English	Neh 4:2
+English	Neh 4:3
+English	Neh 4:4
+English	Neh 4:5
+English	Neh 4:6
+English	Neh 4:7
+English	Neh 4:8
+English	Neh 4:9
+English	Neh 4:10
+English	Neh 4:11
+English	Neh 4:12
+English	Neh 4:13
+English	Neh 4:14
+English	Neh 4:15
+English	Neh 4:16
+English	Neh 4:17
+English	Neh 4:18
+English	Neh 4:19
+English	Neh 4:20
+English	Neh 4:21
+English	Neh 4:22
+English	Neh 4:23
+English	Neh 7:69
+English	Neh 7:70
+English	Neh 7:71
+English	Neh 7:72
+English	Neh 7:73
+English	Neh 9:38
+English	Neh 10:1
+English	Neh 10:2
+English	Neh 10:3
+English	Neh 10:4
+English	Neh 10:5
+English	Neh 10:6
+English	Neh 10:7
+English	Neh 10:8
+English	Neh 10:9
+English	Neh 10:10
+English	Neh 10:11
+English	Neh 10:12
+English	Neh 10:13
+English	Neh 10:14
+English	Neh 10:15
+English	Neh 10:16
+English	Neh 10:17
+English	Neh 10:18
+English	Neh 10:19
+English	Neh 10:20
+English	Neh 10:21
+English	Neh 10:22
+English	Neh 10:23
+English	Neh 10:24
+English	Neh 10:25
+English	Neh 10:26
+English	Neh 10:27
+English	Neh 10:28
+English	Neh 10:29
+English	Neh 10:30
+English	Neh 10:31
+English	Neh 10:32
+English	Neh 10:33
+English	Neh 10:34
+English	Neh 10:35
+English	Neh 10:36
+English	Neh 10:37
+English	Neh 10:38
+English	Neh 10:39
+English	Job 41:1
+English	Job 41:2
+English	Job 41:3
+English	Job 41:4
+English	Job 41:5
+English	Job 41:6
+English	Job 41:7
+English	Job 41:8
+English	Job 41:9
+English	Job 41:10
+English	Job 41:11
+English	Job 41:12
+English	Job 41:13
+English	Job 41:14
+English	Job 41:15
+English	Job 41:16
+English	Job 41:17
+English	Job 41:18
+English	Job 41:19
+English	Job 41:20
+English	Job 41:21
+English	Job 41:22
+English	Job 41:23
+English	Job 41:24
+English	Job 41:25
+English	Job 41:26
+English	Job 41:27
+English	Job 41:28
+English	Job 41:29
+English	Job 41:30
+English	Job 41:31
+English	Job 41:32
+English	Job 41:33
+English	Job 41:34
+English	Psa 3:1
+English	Psa 3:2
+English	Psa 3:3
+English	Psa 3:4
+English	Psa 3:5
+English	Psa 3:6
+English	Psa 3:7
+English	Psa 3:8
+English	Psa 4:1
+English	Psa 4:2
+English	Psa 4:3
+English	Psa 4:4
+English	Psa 4:5
+English	Psa 4:6
+English	Psa 4:7
+English	Psa 4:8
+English	Psa 5:1
+English	Psa 5:2
+English	Psa 5:3
+English	Psa 5:4
+English	Psa 5:5
+English	Psa 5:6
+English	Psa 5:7
+English	Psa 5:8
+English	Psa 5:9
+English	Psa 5:10
+English	Psa 5:11
+English	Psa 5:12
+English	Psa 6:1
+English	Psa 6:2
+English	Psa 6:3
+English	Psa 6:4
+English	Psa 6:5
+English	Psa 6:6
+English	Psa 6:7
+English	Psa 6:8
+English	Psa 6:9
+English	Psa 6:10
+English	Psa 7:1
+English	Psa 7:2
+English	Psa 7:3
+English	Psa 7:4
+English	Psa 7:5
+English	Psa 7:6
+English	Psa 7:7
+English	Psa 7:8
+English	Psa 7:9
+English	Psa 7:10
+English	Psa 7:11
+English	Psa 7:12
+English	Psa 7:13
+English	Psa 7:14
+English	Psa 7:15
+English	Psa 7:16
+English	Psa 7:17
+English	Psa 8:1
+English	Psa 8:2
+English	Psa 8:3
+English	Psa 8:4
+English	Psa 8:5
+English	Psa 8:6
+English	Psa 8:7
+English	Psa 8:8
+English	Psa 8:9
+English	Psa 9:1
+English	Psa 9:2
+English	Psa 9:3
+English	Psa 9:4
+English	Psa 9:5
+English	Psa 9:6
+English	Psa 9:7
+English	Psa 9:8
+English	Psa 9:9
+English	Psa 9:10
+English	Psa 9:11
+English	Psa 9:12
+English	Psa 9:13
+English	Psa 9:14
+English	Psa 9:15
+English	Psa 9:16
+English	Psa 9:17
+English	Psa 9:18
+English	Psa 9:19
+English	Psa 9:20
+English	Psa 12:1
+English	Psa 12:2
+English	Psa 12:3
+English	Psa 12:4
+English	Psa 12:5
+English	Psa 12:6
+English	Psa 12:7
+English	Psa 12:8
+English	Psa 13:1
+English	Psa 13:2
+English	Psa 13:3
+English	Psa 13:4
+English	Psa 13:5
+English	Psa 18:1
+English	Psa 18:2
+English	Psa 18:3
+English	Psa 18:4
+English	Psa 18:5
+English	Psa 18:6
+English	Psa 18:7
+English	Psa 18:8
+English	Psa 18:9
+English	Psa 18:10
+English	Psa 18:11
+English	Psa 18:12
+English	Psa 18:13
+English	Psa 18:14
+English	Psa 18:15
+English	Psa 18:16
+English	Psa 18:17
+English	Psa 18:18
+English	Psa 18:19
+English	Psa 18:20
+English	Psa 18:21
+English	Psa 18:22
+English	Psa 18:23
+English	Psa 18:24
+English	Psa 18:25
+English	Psa 18:26
+English	Psa 18:27
+English	Psa 18:28
+English	Psa 18:29
+English	Psa 18:30
+English	Psa 18:31
+English	Psa 18:32
+English	Psa 18:33
+English	Psa 18:34
+English	Psa 18:35
+English	Psa 18:36
+English	Psa 18:37
+English	Psa 18:38
+English	Psa 18:39
+English	Psa 18:40
+English	Psa 18:41
+English	Psa 18:42
+English	Psa 18:43
+English	Psa 18:44
+English	Psa 18:45
+English	Psa 18:46
+English	Psa 18:47
+English	Psa 18:48
+English	Psa 18:49
+English	Psa 18:50
+English	Psa 19:1
+English	Psa 19:2
+English	Psa 19:3
+English	Psa 19:4
+English	Psa 19:5
+English	Psa 19:6
+English	Psa 19:7
+English	Psa 19:8
+English	Psa 19:9
+English	Psa 19:10
+English	Psa 19:11
+English	Psa 19:12
+English	Psa 19:13
+English	Psa 19:14
+English	Psa 20:1
+English	Psa 20:2
+English	Psa 20:3
+English	Psa 20:4
+English	Psa 20:5
+English	Psa 20:6
+English	Psa 20:7
+English	Psa 20:8
+English	Psa 20:9
+English	Psa 21:1
+English	Psa 21:2
+English	Psa 21:3
+English	Psa 21:4
+English	Psa 21:5
+English	Psa 21:6
+English	Psa 21:7
+English	Psa 21:8
+English	Psa 21:9
+English	Psa 21:10
+English	Psa 21:11
+English	Psa 21:12
+English	Psa 21:13
+English	Psa 22:1
+English	Psa 22:2
+English	Psa 22:3
+English	Psa 22:4
+English	Psa 22:5
+English	Psa 22:6
+English	Psa 22:7
+English	Psa 22:8
+English	Psa 22:9
+English	Psa 22:10
+English	Psa 22:11
+English	Psa 22:12
+English	Psa 22:13
+English	Psa 22:14
+English	Psa 22:15
+English	Psa 22:16
+English	Psa 22:17
+English	Psa 22:18
+English	Psa 22:19
+English	Psa 22:20
+English	Psa 22:21
+English	Psa 22:22
+English	Psa 22:23
+English	Psa 22:24
+English	Psa 22:25
+English	Psa 22:26
+English	Psa 22:27
+English	Psa 22:28
+English	Psa 22:29
+English	Psa 22:30
+English	Psa 22:31
+English	Psa 30:1
+English	Psa 30:2
+English	Psa 30:3
+English	Psa 30:4
+English	Psa 30:5
+English	Psa 30:6
+English	Psa 30:7
+English	Psa 30:8
+English	Psa 30:9
+English	Psa 30:10
+English	Psa 30:11
+English	Psa 30:12
+English	Psa 31:1
+English	Psa 31:2
+English	Psa 31:3
+English	Psa 31:4
+English	Psa 31:5
+English	Psa 31:6
+English	Psa 31:7
+English	Psa 31:8
+English	Psa 31:9
+English	Psa 31:10
+English	Psa 31:11
+English	Psa 31:12
+English	Psa 31:13
+English	Psa 31:14
+English	Psa 31:15
+English	Psa 31:16
+English	Psa 31:17
+English	Psa 31:18
+English	Psa 31:19
+English	Psa 31:20
+English	Psa 31:21
+English	Psa 31:22
+English	Psa 31:23
+English	Psa 31:24
+English	Psa 34:1
+English	Psa 34:2
+English	Psa 34:3
+English	Psa 34:4
+English	Psa 34:5
+English	Psa 34:6
+English	Psa 34:7
+English	Psa 34:8
+English	Psa 34:9
+English	Psa 34:10
+English	Psa 34:11
+English	Psa 34:12
+English	Psa 34:13
+English	Psa 34:14
+English	Psa 34:15
+English	Psa 34:16
+English	Psa 34:17
+English	Psa 34:18
+English	Psa 34:19
+English	Psa 34:20
+English	Psa 34:21
+English	Psa 34:22
+English	Psa 36:1
+English	Psa 36:2
+English	Psa 36:3
+English	Psa 36:4
+English	Psa 36:5
+English	Psa 36:6
+English	Psa 36:7
+English	Psa 36:8
+English	Psa 36:9
+English	Psa 36:10
+English	Psa 36:11
+English	Psa 36:12
+English	Psa 38:1
+English	Psa 38:2
+English	Psa 38:3
+English	Psa 38:4
+English	Psa 38:5
+English	Psa 38:6
+English	Psa 38:7
+English	Psa 38:8
+English	Psa 38:9
+English	Psa 38:10
+English	Psa 38:11
+English	Psa 38:12
+English	Psa 38:13
+English	Psa 38:14
+English	Psa 38:15
+English	Psa 38:16
+English	Psa 38:17
+English	Psa 38:18
+English	Psa 38:19
+English	Psa 38:20
+English	Psa 38:21
+English	Psa 38:22
+English	Psa 39:1
+English	Psa 39:2
+English	Psa 39:3
+English	Psa 39:4
+English	Psa 39:5
+English	Psa 39:6
+English	Psa 39:7
+English	Psa 39:8
+English	Psa 39:9
+English	Psa 39:10
+English	Psa 39:11
+English	Psa 39:12
+English	Psa 39:13
+English	Psa 40:1
+English	Psa 40:2
+English	Psa 40:3
+English	Psa 40:4
+English	Psa 40:5
+English	Psa 40:6
+English	Psa 40:7
+English	Psa 40:8
+English	Psa 40:9
+English	Psa 40:10
+English	Psa 40:11
+English	Psa 40:12
+English	Psa 40:13
+English	Psa 40:14
+English	Psa 40:15
+English	Psa 40:16
+English	Psa 40:17
+English	Psa 41:1
+English	Psa 41:2
+English	Psa 41:3
+English	Psa 41:4
+English	Psa 41:5
+English	Psa 41:6
+English	Psa 41:7
+English	Psa 41:8
+English	Psa 41:9
+English	Psa 41:10
+English	Psa 41:11
+English	Psa 41:12
+English	Psa 41:13
+English	Psa 42:1
+English	Psa 42:2
+English	Psa 42:3
+English	Psa 42:4
+English	Psa 42:5
+English	Psa 42:6
+English	Psa 42:7
+English	Psa 42:8
+English	Psa 42:9
+English	Psa 42:10
+English	Psa 42:11
+English	Psa 44:1
+English	Psa 44:2
+English	Psa 44:3
+English	Psa 44:4
+English	Psa 44:5
+English	Psa 44:6
+English	Psa 44:7
+English	Psa 44:8
+English	Psa 44:9
+English	Psa 44:10
+English	Psa 44:11
+English	Psa 44:12
+English	Psa 44:13
+English	Psa 44:14
+English	Psa 44:15
+English	Psa 44:16
+English	Psa 44:17
+English	Psa 44:18
+English	Psa 44:19
+English	Psa 44:20
+English	Psa 44:21
+English	Psa 44:22
+English	Psa 44:23
+English	Psa 44:24
+English	Psa 44:25
+English	Psa 44:26
+English	Psa 45:1
+English	Psa 45:2
+English	Psa 45:3
+English	Psa 45:4
+English	Psa 45:5
+English	Psa 45:6
+English	Psa 45:7
+English	Psa 45:8
+English	Psa 45:9
+English	Psa 45:10
+English	Psa 45:11
+English	Psa 45:12
+English	Psa 45:13
+English	Psa 45:14
+English	Psa 45:15
+English	Psa 45:16
+English	Psa 45:17
+English	Psa 46:1
+English	Psa 46:2
+English	Psa 46:3
+English	Psa 46:4
+English	Psa 46:5
+English	Psa 46:6
+English	Psa 46:7
+English	Psa 46:8
+English	Psa 46:9
+English	Psa 46:10
+English	Psa 46:11
+English	Psa 47:1
+English	Psa 47:2
+English	Psa 47:3
+English	Psa 47:4
+English	Psa 47:5
+English	Psa 47:6
+English	Psa 47:7
+English	Psa 47:8
+English	Psa 47:9
+English	Psa 48:1
+English	Psa 48:2
+English	Psa 48:3
+English	Psa 48:4
+English	Psa 48:5
+English	Psa 48:6
+English	Psa 48:7
+English	Psa 48:8
+English	Psa 48:9
+English	Psa 48:10
+English	Psa 48:11
+English	Psa 48:12
+English	Psa 48:13
+English	Psa 48:14
+English	Psa 49:1
+English	Psa 49:2
+English	Psa 49:3
+English	Psa 49:4
+English	Psa 49:5
+English	Psa 49:6
+English	Psa 49:7
+English	Psa 49:8
+English	Psa 49:9
+English	Psa 49:10
+English	Psa 49:11
+English	Psa 49:12
+English	Psa 49:13
+English	Psa 49:14
+English	Psa 49:15
+English	Psa 49:16
+English	Psa 49:17
+English	Psa 49:18
+English	Psa 49:19
+English	Psa 49:20
+English	Psa 51:1
+English	Psa 51:1
+English	Psa 51:2
+English	Psa 51:3
+English	Psa 51:4
+English	Psa 51:5
+English	Psa 51:6
+English	Psa 51:7
+English	Psa 51:8
+English	Psa 51:9
+English	Psa 51:10
+English	Psa 51:11
+English	Psa 51:12
+English	Psa 51:13
+English	Psa 51:14
+English	Psa 51:15
+English	Psa 51:16
+English	Psa 51:17
+English	Psa 51:18
+English	Psa 51:19
+English	Psa 52:1
+English	Psa 52:1
+English	Psa 52:2
+English	Psa 52:3
+English	Psa 52:4
+English	Psa 52:5
+English	Psa 52:6
+English	Psa 52:7
+English	Psa 52:8
+English	Psa 52:9
+English	Psa 53:1
+English	Psa 53:2
+English	Psa 53:3
+English	Psa 53:4
+English	Psa 53:5
+English	Psa 53:6
+English	Psa 54:1
+English	Psa 54:1
+English	Psa 54:2
+English	Psa 54:3
+English	Psa 54:4
+English	Psa 54:5
+English	Psa 54:6
+English	Psa 54:7
+English	Psa 55:1
+English	Psa 55:2
+English	Psa 55:3
+English	Psa 55:4
+English	Psa 55:5
+English	Psa 55:6
+English	Psa 55:7
+English	Psa 55:8
+English	Psa 55:9
+English	Psa 55:10
+English	Psa 55:11
+English	Psa 55:12
+English	Psa 55:13
+English	Psa 55:14
+English	Psa 55:15
+English	Psa 55:16
+English	Psa 55:17
+English	Psa 55:18
+English	Psa 55:19
+English	Psa 55:20
+English	Psa 55:21
+English	Psa 55:22
+English	Psa 55:23
+English	Psa 56:1
+English	Psa 56:2
+English	Psa 56:3
+English	Psa 56:4
+English	Psa 56:5
+English	Psa 56:6
+English	Psa 56:7
+English	Psa 56:8
+English	Psa 56:9
+English	Psa 56:10
+English	Psa 56:11
+English	Psa 56:12
+English	Psa 56:13
+English	Psa 57:1
+English	Psa 57:2
+English	Psa 57:3
+English	Psa 57:4
+English	Psa 57:5
+English	Psa 57:6
+English	Psa 57:7
+English	Psa 57:8
+English	Psa 57:9
+English	Psa 57:10
+English	Psa 57:11
+English	Psa 58:1
+English	Psa 58:2
+English	Psa 58:3
+English	Psa 58:4
+English	Psa 58:5
+English	Psa 58:6
+English	Psa 58:7
+English	Psa 58:8
+English	Psa 58:9
+English	Psa 58:10
+English	Psa 58:11
+English	Psa 59:1
+English	Psa 59:2
+English	Psa 59:3
+English	Psa 59:4
+English	Psa 59:5
+English	Psa 59:6
+English	Psa 59:7
+English	Psa 59:8
+English	Psa 59:9
+English	Psa 59:10
+English	Psa 59:11
+English	Psa 59:12
+English	Psa 59:13
+English	Psa 59:14
+English	Psa 59:15
+English	Psa 59:16
+English	Psa 59:17
+English	Psa 60:1
+English	Psa 60:1
+English	Psa 60:2
+English	Psa 60:3
+English	Psa 60:4
+English	Psa 60:5
+English	Psa 60:6
+English	Psa 60:7
+English	Psa 60:8
+English	Psa 60:9
+English	Psa 60:10
+English	Psa 60:11
+English	Psa 60:12
+English	Psa 61:1
+English	Psa 61:2
+English	Psa 61:3
+English	Psa 61:4
+English	Psa 61:5
+English	Psa 61:6
+English	Psa 61:7
+English	Psa 61:8
+English	Psa 62:1
+English	Psa 62:2
+English	Psa 62:3
+English	Psa 62:4
+English	Psa 62:5
+English	Psa 62:6
+English	Psa 62:7
+English	Psa 62:8
+English	Psa 62:9
+English	Psa 62:10
+English	Psa 62:11
+English	Psa 62:12
+English	Psa 63:1
+English	Psa 63:2
+English	Psa 63:3
+English	Psa 63:4
+English	Psa 63:5
+English	Psa 63:6
+English	Psa 63:7
+English	Psa 63:8
+English	Psa 63:9
+English	Psa 63:10
+English	Psa 63:11
+English	Psa 64:1
+English	Psa 64:2
+English	Psa 64:3
+English	Psa 64:4
+English	Psa 64:5
+English	Psa 64:6
+English	Psa 64:7
+English	Psa 64:8
+English	Psa 64:9
+English	Psa 64:10
+English	Psa 65:1
+English	Psa 65:2
+English	Psa 65:3
+English	Psa 65:4
+English	Psa 65:5
+English	Psa 65:6
+English	Psa 65:7
+English	Psa 65:8
+English	Psa 65:9
+English	Psa 65:10
+English	Psa 65:11
+English	Psa 65:12
+English	Psa 65:13
+English	Psa 67:1
+English	Psa 67:2
+English	Psa 67:3
+English	Psa 67:4
+English	Psa 67:5
+English	Psa 67:6
+English	Psa 67:7
+English	Psa 68:1
+English	Psa 68:2
+English	Psa 68:3
+English	Psa 68:4
+English	Psa 68:5
+English	Psa 68:6
+English	Psa 68:7
+English	Psa 68:8
+English	Psa 68:9
+English	Psa 68:10
+English	Psa 68:11
+English	Psa 68:12
+English	Psa 68:13
+English	Psa 68:14
+English	Psa 68:15
+English	Psa 68:16
+English	Psa 68:17
+English	Psa 68:18
+English	Psa 68:19
+English	Psa 68:20
+English	Psa 68:21
+English	Psa 68:22
+English	Psa 68:23
+English	Psa 68:24
+English	Psa 68:25
+English	Psa 68:26
+English	Psa 68:27
+English	Psa 68:28
+English	Psa 68:29
+English	Psa 68:30
+English	Psa 68:31
+English	Psa 68:32
+English	Psa 68:33
+English	Psa 68:34
+English	Psa 68:35
+English	Psa 69:1
+English	Psa 69:2
+English	Psa 69:3
+English	Psa 69:4
+English	Psa 69:5
+English	Psa 69:6
+English	Psa 69:7
+English	Psa 69:8
+English	Psa 69:9
+English	Psa 69:10
+English	Psa 69:11
+English	Psa 69:12
+English	Psa 69:13
+English	Psa 69:14
+English	Psa 69:15
+English	Psa 69:16
+English	Psa 69:17
+English	Psa 69:18
+English	Psa 69:19
+English	Psa 69:20
+English	Psa 69:21
+English	Psa 69:22
+English	Psa 69:23
+English	Psa 69:24
+English	Psa 69:25
+English	Psa 69:26
+English	Psa 69:27
+English	Psa 69:28
+English	Psa 69:29
+English	Psa 69:30
+English	Psa 69:31
+English	Psa 69:32
+English	Psa 69:33
+English	Psa 69:34
+English	Psa 69:35
+English	Psa 69:36
+English	Psa 70:1
+English	Psa 70:2
+English	Psa 70:3
+English	Psa 70:4
+English	Psa 70:5
+English	Psa 75:1
+English	Psa 75:2
+English	Psa 75:3
+English	Psa 75:4
+English	Psa 75:5
+English	Psa 75:6
+English	Psa 75:7
+English	Psa 75:8
+English	Psa 75:9
+English	Psa 75:10
+English	Psa 76:1
+English	Psa 76:2
+English	Psa 76:3
+English	Psa 76:4
+English	Psa 76:5
+English	Psa 76:6
+English	Psa 76:7
+English	Psa 76:8
+English	Psa 76:9
+English	Psa 76:10
+English	Psa 76:11
+English	Psa 76:12
+English	Psa 77:1
+English	Psa 77:2
+English	Psa 77:3
+English	Psa 77:4
+English	Psa 77:5
+English	Psa 77:6
+English	Psa 77:7
+English	Psa 77:8
+English	Psa 77:9
+English	Psa 77:10
+English	Psa 77:11
+English	Psa 77:12
+English	Psa 77:13
+English	Psa 77:14
+English	Psa 77:15
+English	Psa 77:16
+English	Psa 77:17
+English	Psa 77:18
+English	Psa 77:19
+English	Psa 77:20
+English	Psa 80:1
+English	Psa 80:2
+English	Psa 80:3
+English	Psa 80:4
+English	Psa 80:5
+English	Psa 80:6
+English	Psa 80:7
+English	Psa 80:8
+English	Psa 80:9
+English	Psa 80:10
+English	Psa 80:11
+English	Psa 80:12
+English	Psa 80:13
+English	Psa 80:14
+English	Psa 80:15
+English	Psa 80:16
+English	Psa 80:17
+English	Psa 80:18
+English	Psa 80:19
+English	Psa 81:1
+English	Psa 81:2
+English	Psa 81:3
+English	Psa 81:4
+English	Psa 81:5
+English	Psa 81:6
+English	Psa 81:7
+English	Psa 81:8
+English	Psa 81:9
+English	Psa 81:10
+English	Psa 81:11
+English	Psa 81:12
+English	Psa 81:13
+English	Psa 81:14
+English	Psa 81:15
+English	Psa 81:16
+English	Psa 83:1
+English	Psa 83:2
+English	Psa 83:3
+English	Psa 83:4
+English	Psa 83:5
+English	Psa 83:6
+English	Psa 83:7
+English	Psa 83:8
+English	Psa 83:9
+English	Psa 83:10
+English	Psa 83:11
+English	Psa 83:12
+English	Psa 83:13
+English	Psa 83:14
+English	Psa 83:15
+English	Psa 83:16
+English	Psa 83:17
+English	Psa 83:18
+English	Psa 84:1
+English	Psa 84:2
+English	Psa 84:3
+English	Psa 84:4
+English	Psa 84:5
+English	Psa 84:6
+English	Psa 84:7
+English	Psa 84:8
+English	Psa 84:9
+English	Psa 84:10
+English	Psa 84:11
+English	Psa 84:12
+English	Psa 85:1
+English	Psa 85:2
+English	Psa 85:3
+English	Psa 85:4
+English	Psa 85:5
+English	Psa 85:6
+English	Psa 85:7
+English	Psa 85:8
+English	Psa 85:9
+English	Psa 85:10
+English	Psa 85:11
+English	Psa 85:12
+English	Psa 85:13
+English	Psa 88:1
+English	Psa 88:2
+English	Psa 88:3
+English	Psa 88:4
+English	Psa 88:5
+English	Psa 88:6
+English	Psa 88:7
+English	Psa 88:8
+English	Psa 88:9
+English	Psa 88:10
+English	Psa 88:11
+English	Psa 88:12
+English	Psa 88:13
+English	Psa 88:14
+English	Psa 88:15
+English	Psa 88:16
+English	Psa 88:17
+English	Psa 88:18
+English	Psa 89:1
+English	Psa 89:2
+English	Psa 89:3
+English	Psa 89:4
+English	Psa 89:5
+English	Psa 89:6
+English	Psa 89:7
+English	Psa 89:8
+English	Psa 89:9
+English	Psa 89:10
+English	Psa 89:11
+English	Psa 89:12
+English	Psa 89:13
+English	Psa 89:14
+English	Psa 89:15
+English	Psa 89:16
+English	Psa 89:17
+English	Psa 89:18
+English	Psa 89:19
+English	Psa 89:20
+English	Psa 89:21
+English	Psa 89:22
+English	Psa 89:23
+English	Psa 89:24
+English	Psa 89:25
+English	Psa 89:26
+English	Psa 89:27
+English	Psa 89:28
+English	Psa 89:29
+English	Psa 89:30
+English	Psa 89:31
+English	Psa 89:32
+English	Psa 89:33
+English	Psa 89:34
+English	Psa 89:35
+English	Psa 89:36
+English	Psa 89:37
+English	Psa 89:38
+English	Psa 89:39
+English	Psa 89:40
+English	Psa 89:41
+English	Psa 89:42
+English	Psa 89:43
+English	Psa 89:44
+English	Psa 89:45
+English	Psa 89:46
+English	Psa 89:47
+English	Psa 89:48
+English	Psa 89:49
+English	Psa 89:50
+English	Psa 89:51
+English	Psa 89:52
+English	Psa 92:1
+English	Psa 92:2
+English	Psa 92:3
+English	Psa 92:4
+English	Psa 92:5
+English	Psa 92:6
+English	Psa 92:7
+English	Psa 92:8
+English	Psa 92:9
+English	Psa 92:10
+English	Psa 92:11
+English	Psa 92:12
+English	Psa 92:13
+English	Psa 92:14
+English	Psa 92:15
+English	Psa 102:1
+English	Psa 102:2
+English	Psa 102:3
+English	Psa 102:4
+English	Psa 102:5
+English	Psa 102:6
+English	Psa 102:7
+English	Psa 102:8
+English	Psa 102:9
+English	Psa 102:10
+English	Psa 102:11
+English	Psa 102:12
+English	Psa 102:13
+English	Psa 102:14
+English	Psa 102:15
+English	Psa 102:16
+English	Psa 102:17
+English	Psa 102:18
+English	Psa 102:19
+English	Psa 102:20
+English	Psa 102:21
+English	Psa 102:22
+English	Psa 102:23
+English	Psa 102:24
+English	Psa 102:25
+English	Psa 102:26
+English	Psa 102:27
+English	Psa 102:28
+English	Psa 108:1
+English	Psa 108:2
+English	Psa 108:3
+English	Psa 108:4
+English	Psa 108:5
+English	Psa 108:6
+English	Psa 108:7
+English	Psa 108:8
+English	Psa 108:9
+English	Psa 108:10
+English	Psa 108:11
+English	Psa 108:12
+English	Psa 108:13
+English	Psa 140:1
+English	Psa 140:2
+English	Psa 140:3
+English	Psa 140:4
+English	Psa 140:5
+English	Psa 140:6
+English	Psa 140:7
+English	Psa 140:8
+English	Psa 140:9
+English	Psa 140:10
+English	Psa 140:11
+English	Psa 140:12
+English	Psa 140:13
+English	Psa 142:1
+English	Psa 142:2
+English	Psa 142:3
+English	Psa 142:4
+English	Psa 142:5
+English	Psa 142:6
+English	Psa 142:7
+English	Eccl 5:1
+English	Eccl 5:2
+English	Eccl 5:3
+English	Eccl 5:4
+English	Eccl 5:5
+English	Eccl 5:6
+English	Eccl 5:7
+English	Eccl 5:8
+English	Eccl 5:9
+English	Eccl 5:10
+English	Eccl 5:11
+English	Eccl 5:12
+English	Eccl 5:13
+English	Eccl 5:14
+English	Eccl 5:15
+English	Eccl 5:16
+English	Eccl 5:17
+English	Eccl 5:18
+English	Eccl 5:19
+English	Eccl 5:20
+English	S.S. 6:13
+English	S.S. 7:1
+English	S.S. 7:2
+English	S.S. 7:3
+English	S.S. 7:4
+English	S.S. 7:5
+English	S.S. 7:6
+English	S.S. 7:7
+English	S.S. 7:8
+English	S.S. 7:9
+English	S.S. 7:10
+English	S.S. 7:11
+English	S.S. 7:12
+English	S.S. 7:13
+English	Isa 9:1
+English	Isa 9:2
+English	Isa 9:3
+English	Isa 9:4
+English	Isa 9:5
+English	Isa 9:6
+English	Isa 9:7
+English	Isa 9:8
+English	Isa 9:9
+English	Isa 9:10
+English	Isa 9:11
+English	Isa 9:12
+English	Isa 9:13
+English	Isa 9:14
+English	Isa 9:15
+English	Isa 9:16
+English	Isa 9:17
+English	Isa 9:18
+English	Isa 9:19
+English	Isa 9:20
+English	Isa 9:21
+English	Isa 64:1
+English	Isa 64:2
+English	Isa 64:3
+English	Isa 64:4
+English	Isa 64:5
+English	Isa 64:6
+English	Isa 64:7
+English	Isa 64:8
+English	Isa 64:9
+English	Isa 64:10
+English	Isa 64:11
+English	Isa 64:12
+English	Jer 9:1
+English	Jer 9:2
+English	Jer 9:3
+English	Jer 9:4
+English	Jer 9:5
+English	Jer 9:6
+English	Jer 9:7
+English	Jer 9:8
+English	Jer 9:9
+English	Jer 9:10
+English	Jer 9:11
+English	Jer 9:12
+English	Jer 9:13
+English	Jer 9:14
+English	Jer 9:15
+English	Jer 9:16
+English	Jer 9:17
+English	Jer 9:18
+English	Jer 9:19
+English	Jer 9:20
+English	Jer 9:21
+English	Jer 9:22
+English	Jer 9:23
+English	Jer 9:24
+English	Jer 9:25
+English	Jer 9:26
+English	Ezek 20:45
+English	Ezek 20:46
+English	Ezek 20:47
+English	Ezek 20:48
+English	Ezek 20:49
+English	Ezek 21:1
+English	Ezek 21:2
+English	Ezek 21:3
+English	Ezek 21:4
+English	Ezek 21:5
+English	Ezek 21:6
+English	Ezek 21:7
+English	Ezek 21:8
+English	Ezek 21:9
+English	Ezek 21:10
+English	Ezek 21:11
+English	Ezek 21:12
+English	Ezek 21:13
+English	Ezek 21:14
+English	Ezek 21:15
+English	Ezek 21:16
+English	Ezek 21:17
+English	Ezek 21:18
+English	Ezek 21:19
+English	Ezek 21:20
+English	Ezek 21:21
+English	Ezek 21:22
+English	Ezek 21:23
+English	Ezek 21:24
+English	Ezek 21:25
+English	Ezek 21:26
+English	Ezek 21:27
+English	Ezek 21:28
+English	Ezek 21:29
+English	Ezek 21:30
+English	Ezek 21:31
+English	Ezek 21:32
+English	Dan 4:1
+English	Dan 4:2
+English	Dan 4:3
+English	Dan 4:4
+English	Dan 4:5
+English	Dan 4:6
+English	Dan 4:7
+English	Dan 4:8
+English	Dan 4:9
+English	Dan 4:10
+English	Dan 4:11
+English	Dan 4:12
+English	Dan 4:13
+English	Dan 4:14
+English	Dan 4:15
+English	Dan 4:16
+English	Dan 4:17
+English	Dan 4:18
+English	Dan 4:19
+English	Dan 4:20
+English	Dan 4:21
+English	Dan 4:22
+English	Dan 4:23
+English	Dan 4:24
+English	Dan 4:25
+English	Dan 4:26
+English	Dan 4:27
+English	Dan 4:28
+English	Dan 4:29
+English	Dan 4:30
+English	Dan 4:31
+English	Dan 4:32
+English	Dan 4:33
+English	Dan 4:34
+English	Dan 4:35
+English	Dan 4:36
+English	Dan 4:37
+English	Dan 5:31
+English	Dan 6:1
+English	Dan 6:2
+English	Dan 6:3
+English	Dan 6:4
+English	Dan 6:5
+English	Dan 6:6
+English	Dan 6:7
+English	Dan 6:8
+English	Dan 6:9
+English	Dan 6:10
+English	Dan 6:11
+English	Dan 6:12
+English	Dan 6:13
+English	Dan 6:14
+English	Dan 6:15
+English	Dan 6:16
+English	Dan 6:17
+English	Dan 6:18
+English	Dan 6:19
+English	Dan 6:20
+English	Dan 6:21
+English	Dan 6:22
+English	Dan 6:23
+English	Dan 6:24
+English	Dan 6:25
+English	Dan 6:26
+English	Dan 6:27
+English	Dan 6:28
+English	Hos 1:10
+English	Hos 1:11
+English	Hos 2:1
+English	Hos 2:2
+English	Hos 2:3
+English	Hos 2:4
+English	Hos 2:5
+English	Hos 2:6
+English	Hos 2:7
+English	Hos 2:8
+English	Hos 2:9
+English	Hos 2:10
+English	Hos 2:11
+English	Hos 2:12
+English	Hos 2:13
+English	Hos 2:14
+English	Hos 2:15
+English	Hos 2:16
+English	Hos 2:17
+English	Hos 2:18
+English	Hos 2:19
+English	Hos 2:20
+English	Hos 2:21
+English	Hos 2:22
+English	Hos 2:23
+English	Hos 11:12
+English	Hos 12:1
+English	Hos 12:2
+English	Hos 12:3
+English	Hos 12:4
+English	Hos 12:5
+English	Hos 12:6
+English	Hos 12:7
+English	Hos 12:8
+English	Hos 12:9
+English	Hos 12:10
+English	Hos 12:11
+English	Hos 12:12
+English	Hos 12:13
+English	Hos 12:14
+English	Hos 13:16
+English	Hos 14:1
+English	Hos 14:2
+English	Hos 14:3
+English	Hos 14:4
+English	Hos 14:5
+English	Hos 14:6
+English	Hos 14:7
+English	Hos 14:8
+English	Hos 14:9
+English	Joel 2:28
+English	Joel 2:29
+English	Joel 2:30
+English	Joel 2:31
+English	Joel 2:32
+English	Joel 3:1
+English	Joel 3:2
+English	Joel 3:3
+English	Joel 3:4
+English	Joel 3:5
+English	Joel 3:6
+English	Joel 3:7
+English	Joel 3:8
+English	Joel 3:9
+English	Joel 3:10
+English	Joel 3:11
+English	Joel 3:12
+English	Joel 3:13
+English	Joel 3:14
+English	Joel 3:15
+English	Joel 3:16
+English	Joel 3:17
+English	Joel 3:18
+English	Joel 3:19
+English	Joel 3:20
+English	Joel 3:21
+English	Joel 1:17
+English	Joel 2:1
+English	Joel 2:2
+English	Joel 2:3
+English	Joel 2:4
+English	Joel 2:5
+English	Joel 2:6
+English	Joel 2:7
+English	Joel 2:8
+English	Joel 2:9
+English	Joel 2:10
+English	Mic 5:1
+English	Mic 5:2
+English	Mic 5:3
+English	Mic 5:4
+English	Mic 5:5
+English	Mic 5:6
+English	Mic 5:7
+English	Mic 5:8
+English	Mic 5:9
+English	Mic 5:10
+English	Mic 5:11
+English	Mic 5:12
+English	Mic 5:13
+English	Mic 5:14
+English	Mic 5:15
+English	Nah 1:15
+English	Nah 2:1
+English	Nah 2:2
+English	Nah 2:3
+English	Nah 2:4
+English	Nah 2:5
+English	Nah 2:6
+English	Nah 2:7
+English	Nah 2:8
+English	Nah 2:9
+English	Nah 2:10
+English	Nah 2:11
+English	Nah 2:12
+English	Nah 2:13
+English	Zec 1:18
+English	Zec 1:19
+English	Zec 1:20
+English	Zec 1:21
+English	Zec 2:1
+English	Zec 2:2
+English	Zec 2:3
+English	Zec 2:4
+English	Zec 2:5
+English	Zec 2:6
+English	Zec 2:7
+English	Zec 2:8
+English	Zec 2:9
+English	Zec 2:10
+English	Zec 2:11
+English	Zec 2:12
+English	Zec 2:13
+English	Mal 4:1
+English	Mal 4:2
+English	Mal 4:3
+English	Mal 4:4
+English	Mal 4:5
+English	Mal 4:6
