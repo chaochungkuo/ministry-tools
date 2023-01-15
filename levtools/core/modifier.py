@@ -226,5 +226,5 @@ class Modifier:
                 de.append(text[-1])
             if not de:
                 de.append("[DE]")
-            textbody.de_lines.append(" ",join(de))
+            textbody.de_lines.append(" ".join(de))
 
