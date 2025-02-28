@@ -66,8 +66,18 @@ class TextBody():
             if ref:
                 if de:
                     r, newp = insert_paragraph_after(de_p, self.scriptures_str[i])
+                    
+                    
+
                 else:
                     r, newp = insert_paragraph_after(p, self.scriptures_str[i])
+                    # Set the paragraph formatting
+                    # paragraph_format = newp.paragraph_format
+                    # paragraph_format.first_line_indent = Inches(-0.5)  # First line outdent
+                    # paragraph_format.left_indent = Inches(0.5)  # Indentation for the rest of the paragraph
+                    # Add tab stop to align the text after the reference
+                    # tab_stops = newp.paragraph_format.tab_stops
+                    # tab_stops.add_tab_stop(Inches(3.0))  # Adjust as per your preferred tab alignment
                 # print(r)
                 # r = document.add_paragraph().add_run(self.scriptures[i])
                 font = r.font

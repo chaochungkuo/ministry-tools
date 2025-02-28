@@ -141,7 +141,7 @@ class Modifier:
 
         def handle_verses(v):
             v = clean_vv(v)
-            # print(v)–
+            # print(v)
             try:
                 if "-" in v:
                     l = v.split("-")
